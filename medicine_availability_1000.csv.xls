@@ -1,0 +1,1001 @@
+Pharmacy_Name,Area,Medicine_Name,Medicine_Category,Stock_Quantity,Reorder_Level,Daily_Usage,Demand_Level,Delivery_Time_Days,Season,Disease_Outbreak,Date,Availability
+Apollo,Andheri,Cetrizine,Allergy,62,41,16,High,4,Rainy,Yes,2025-07-04,Available
+MedPlus,Thane,Cetrizine,Allergy,12,48,8,Low,2,Summer,No,2025-04-30,Low Stock
+MedPlus,Andheri,Metformin,Diabetes,67,48,7,Low,3,Summer,No,2025-09-05,Available
+Wellness,Bandra,Vitamin D,Supplement,76,41,11,Medium,5,Summer,No,2025-02-01,Available
+Guardian,Andheri,Metformin,Diabetes,73,24,8,Low,3,Summer,No,2025-05-10,Available
+Wellness,Andheri,Paracetamol,Painkiller,8,32,18,High,4,Rainy,Yes,2025-07-30,Low Stock
+Apollo,Dadar,ORS,Hydration,11,25,10,Medium,3,Winter,No,2025-11-14,Low Stock
+Guardian,Bandra,Amoxicillin,Antibiotic,71,37,17,High,2,Rainy,Yes,2025-06-26,Available
+Apollo,Bandra,Cetrizine,Allergy,63,29,13,Medium,6,Rainy,No,2025-08-12,Available
+Guardian,Andheri,ORS,Hydration,14,31,15,Medium,3,Summer,No,2025-04-11,Low Stock
+Wellness,Bandra,Crocin,Painkiller,22,31,14,Medium,2,Winter,No,2025-12-12,Low Stock
+Wellness,Andheri,Vitamin D,Supplement,16,32,7,Low,6,Rainy,No,2025-06-20,Low Stock
+Wellness,Thane,ORS,Hydration,80,23,11,Medium,5,Summer,No,2025-05-18,Available
+Apollo,Andheri,Amoxicillin,Antibiotic,69,37,20,High,6,Winter,Yes,2025-12-15,Available
+Wellness,Bandra,Vitamin D,Supplement,51,25,7,Low,2,Summer,No,2025-05-31,Available
+Guardian,Dadar,Azithromycin,Antibiotic,34,22,14,Medium,4,Summer,No,2025-03-16,Available
+Apollo,Bandra,ORS,Hydration,3,49,12,Medium,6,Winter,Yes,2025-12-28,Low Stock
+Wellness,Andheri,Azithromycin,Antibiotic,72,40,9,Medium,6,Summer,No,2025-05-25,Available
+Guardian,Bandra,Paracetamol,Painkiller,78,21,13,Medium,6,Rainy,No,2025-08-28,Available
+Apollo,Bandra,ORS,Hydration,75,46,16,High,3,Rainy,Yes,2025-08-13,Available
+Wellness,Thane,Metformin,Diabetes,13,46,5,Low,3,Winter,No,2025-11-15,Low Stock
+Apollo,Bandra,Insulin,Diabetes,1,44,10,Medium,6,Summer,No,2025-03-24,Low Stock
+Guardian,Thane,Paracetamol,Painkiller,46,33,20,High,2,Winter,Yes,2025-12-28,Available
+Guardian,Andheri,Vitamin D,Supplement,80,27,7,Low,6,Summer,No,2025-09-26,Available
+Wellness,Bandra,Metformin,Diabetes,60,25,11,Medium,5,Winter,No,2025-11-18,Available
+Wellness,Bandra,Cetrizine,Allergy,51,27,6,Low,6,Winter,No,2025-11-29,Available
+Wellness,Dadar,Cetrizine,Allergy,9,26,11,Medium,2,Summer,No,2025-04-08,Low Stock
+Apollo,Bandra,Crocin,Painkiller,79,50,10,Medium,3,Rainy,No,2025-06-22,Available
+Apollo,Andheri,Vitamin D,Supplement,24,36,14,Medium,5,Summer,No,2025-09-11,Low Stock
+Apollo,Thane,Dolo,Painkiller,10,22,8,Low,4,Rainy,No,2025-08-06,Low Stock
+Wellness,Dadar,Insulin,Diabetes,44,37,5,Low,3,Summer,No,2025-03-04,Available
+MedPlus,Thane,Dolo,Painkiller,65,30,16,High,5,Winter,Yes,2025-11-19,Available
+Apollo,Andheri,Metformin,Diabetes,33,21,6,Low,2,Summer,No,2025-03-07,Available
+Apollo,Dadar,Paracetamol,Painkiller,51,42,7,Low,6,Winter,No,2025-11-14,Available
+Apollo,Dadar,ORS,Hydration,70,31,15,Medium,4,Winter,Yes,2026-01-01,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,19,36,6,Low,5,Summer,No,2025-09-05,Low Stock
+Apollo,Thane,Amoxicillin,Antibiotic,10,32,20,High,4,Rainy,Yes,2025-08-07,Low Stock
+Apollo,Dadar,Crocin,Painkiller,59,32,15,Medium,5,Rainy,No,2025-08-09,Available
+Wellness,Bandra,Crocin,Painkiller,14,30,15,Medium,5,Summer,No,2025-09-17,Low Stock
+Apollo,Dadar,Paracetamol,Painkiller,41,28,14,Medium,6,Rainy,Yes,2025-06-29,Available
+Apollo,Andheri,Paracetamol,Painkiller,19,32,13,Medium,6,Summer,No,2025-05-03,Low Stock
+Apollo,Bandra,Azithromycin,Antibiotic,74,45,6,Low,3,Summer,No,2025-05-29,Available
+Wellness,Dadar,Cetrizine,Allergy,75,20,14,Medium,2,Summer,No,2025-05-23,Available
+MedPlus,Dadar,Dolo,Painkiller,9,27,23,High,4,Rainy,Yes,2025-06-29,Low Stock
+MedPlus,Thane,Insulin,Diabetes,24,43,5,Low,5,Winter,No,2025-01-11,Low Stock
+Wellness,Thane,Insulin,Diabetes,76,39,21,High,4,Rainy,Yes,2025-08-12,Available
+Guardian,Andheri,Azithromycin,Antibiotic,77,26,13,Medium,5,Rainy,No,2025-07-13,Available
+Apollo,Bandra,Metformin,Diabetes,61,36,13,Medium,2,Winter,No,2025-11-28,Available
+Apollo,Dadar,Metformin,Diabetes,30,27,12,Medium,3,Rainy,Yes,2025-07-22,Available
+Apollo,Thane,Vitamin D,Supplement,80,50,11,Medium,2,Winter,No,2025-12-20,Available
+Apollo,Andheri,Insulin,Diabetes,57,26,6,Low,5,Rainy,No,2025-08-31,Available
+Wellness,Andheri,Metformin,Diabetes,24,23,12,Medium,3,Summer,No,2025-03-14,Available
+Wellness,Andheri,Vitamin D,Supplement,25,37,13,Medium,2,Summer,No,2025-10-26,Low Stock
+MedPlus,Bandra,Amoxicillin,Antibiotic,33,35,8,Low,5,Winter,No,2025-01-27,Low Stock
+Wellness,Andheri,Amoxicillin,Antibiotic,16,35,13,Medium,5,Winter,No,2025-12-15,Low Stock
+MedPlus,Dadar,Cetrizine,Allergy,3,33,19,High,2,Winter,Yes,2025-01-24,Low Stock
+Wellness,Bandra,ORS,Hydration,69,35,14,Medium,6,Rainy,No,2025-07-27,Available
+Wellness,Thane,Insulin,Diabetes,46,32,8,Low,5,Summer,No,2025-10-29,Available
+MedPlus,Thane,Cetrizine,Allergy,53,47,17,High,4,Winter,Yes,2025-01-04,Available
+MedPlus,Thane,Dolo,Painkiller,27,37,9,Medium,5,Summer,No,2025-05-31,Low Stock
+MedPlus,Andheri,ORS,Hydration,73,20,12,Medium,6,Winter,No,2025-12-28,Available
+Wellness,Thane,Cetrizine,Allergy,76,25,21,High,3,Rainy,Yes,2025-08-05,Available
+MedPlus,Bandra,Paracetamol,Painkiller,35,33,12,Medium,5,Summer,No,2025-05-30,Available
+Apollo,Bandra,Vitamin D,Supplement,18,21,13,Medium,2,Summer,No,2025-02-21,Low Stock
+Wellness,Andheri,Crocin,Painkiller,46,37,18,High,5,Rainy,Yes,2025-07-08,Available
+Guardian,Dadar,Crocin,Painkiller,3,50,8,Low,5,Summer,No,2025-10-23,Low Stock
+Guardian,Dadar,Insulin,Diabetes,58,29,12,Medium,6,Summer,No,2025-02-04,Available
+Apollo,Dadar,Metformin,Diabetes,58,34,12,Medium,5,Summer,No,2025-03-10,Available
+Apollo,Thane,Crocin,Painkiller,24,33,19,High,5,Winter,Yes,2025-11-09,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,10,41,9,Medium,2,Summer,No,2025-09-13,Low Stock
+Wellness,Bandra,Azithromycin,Antibiotic,76,26,9,Medium,2,Summer,No,2025-03-26,Available
+Guardian,Bandra,Crocin,Painkiller,4,24,8,Low,3,Rainy,No,2025-06-07,Low Stock
+Guardian,Dadar,Vitamin D,Supplement,28,40,7,Low,5,Summer,No,2025-09-14,Low Stock
+Guardian,Andheri,Dolo,Painkiller,57,26,15,Medium,3,Rainy,No,2025-07-02,Available
+Guardian,Dadar,Cetrizine,Allergy,54,25,13,Medium,4,Winter,No,2025-01-09,Available
+Apollo,Bandra,Amoxicillin,Antibiotic,44,30,15,Medium,4,Rainy,No,2025-06-05,Available
+Apollo,Bandra,ORS,Hydration,25,32,21,High,5,Winter,Yes,2025-01-11,Low Stock
+Apollo,Thane,Insulin,Diabetes,19,29,14,Medium,2,Winter,No,2025-12-02,Low Stock
+Guardian,Dadar,Vitamin D,Supplement,25,38,18,High,3,Winter,Yes,2025-01-21,Low Stock
+MedPlus,Bandra,Cetrizine,Allergy,16,21,13,Medium,3,Summer,No,2025-02-11,Low Stock
+MedPlus,Thane,Amoxicillin,Antibiotic,9,26,8,Low,4,Summer,No,2025-09-24,Low Stock
+MedPlus,Thane,Crocin,Painkiller,61,36,6,Low,3,Summer,No,2025-05-30,Available
+Wellness,Dadar,Dolo,Painkiller,39,46,12,Medium,2,Summer,No,2025-02-12,Low Stock
+Wellness,Andheri,Paracetamol,Painkiller,20,30,20,High,5,Rainy,Yes,2025-08-22,Low Stock
+Guardian,Thane,Vitamin D,Supplement,63,49,19,High,4,Rainy,Yes,2025-07-28,Available
+Apollo,Dadar,Cetrizine,Allergy,6,28,16,High,2,Rainy,Yes,2025-08-17,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,75,27,5,Low,2,Rainy,No,2025-06-16,Available
+Apollo,Andheri,Paracetamol,Painkiller,41,36,12,Medium,6,Summer,No,2025-09-27,Available
+Wellness,Dadar,Metformin,Diabetes,27,25,14,Medium,3,Winter,No,2025-11-18,Available
+MedPlus,Andheri,Insulin,Diabetes,75,27,12,Medium,4,Summer,No,2025-03-12,Available
+Wellness,Andheri,ORS,Hydration,69,44,13,Medium,3,Summer,No,2025-05-21,Available
+Apollo,Thane,Vitamin D,Supplement,52,37,6,Low,4,Summer,No,2025-09-06,Available
+Guardian,Andheri,Insulin,Diabetes,29,24,23,High,6,Winter,Yes,2025-01-23,Available
+Guardian,Andheri,Vitamin D,Supplement,65,36,15,Medium,2,Winter,No,2025-01-12,Available
+Wellness,Bandra,Dolo,Painkiller,63,33,9,Medium,4,Summer,No,2025-10-25,Available
+Wellness,Thane,Dolo,Painkiller,9,27,6,Low,2,Summer,No,2025-09-01,Low Stock
+Apollo,Dadar,Crocin,Painkiller,17,26,7,Low,2,Winter,No,2025-11-13,Low Stock
+Apollo,Thane,ORS,Hydration,0,44,18,High,2,Winter,Yes,2025-01-23,Out of Stock
+Wellness,Dadar,Paracetamol,Painkiller,62,31,6,Low,2,Summer,No,2025-04-10,Available
+MedPlus,Thane,Vitamin D,Supplement,49,42,5,Low,5,Summer,No,2025-02-22,Available
+Apollo,Dadar,Crocin,Painkiller,48,36,5,Low,4,Summer,No,2025-05-02,Available
+Guardian,Dadar,Cetrizine,Allergy,39,31,5,Low,6,Summer,No,2025-04-06,Available
+Wellness,Bandra,Cetrizine,Allergy,6,48,6,Low,2,Summer,No,2025-09-07,Low Stock
+MedPlus,Dadar,ORS,Hydration,38,21,7,Low,6,Summer,No,2025-02-04,Available
+MedPlus,Thane,ORS,Hydration,68,31,12,Medium,5,Summer,No,2025-02-11,Available
+Guardian,Thane,Metformin,Diabetes,56,28,16,High,2,Rainy,Yes,2025-06-28,Available
+MedPlus,Dadar,ORS,Hydration,24,24,8,Low,4,Summer,No,2025-02-23,Available
+Wellness,Bandra,Vitamin D,Supplement,15,33,23,High,6,Winter,Yes,2025-01-07,Low Stock
+Wellness,Thane,Insulin,Diabetes,30,50,15,Medium,3,Rainy,No,2025-07-19,Low Stock
+Wellness,Thane,Metformin,Diabetes,62,49,19,High,6,Rainy,Yes,2025-08-08,Available
+MedPlus,Thane,ORS,Hydration,17,34,11,Medium,4,Summer,No,2025-04-12,Low Stock
+Apollo,Andheri,Crocin,Painkiller,53,49,17,High,2,Winter,Yes,2025-01-06,Available
+Wellness,Dadar,Vitamin D,Supplement,2,23,6,Low,6,Summer,No,2025-02-05,Low Stock
+Wellness,Andheri,Paracetamol,Painkiller,12,38,6,Low,4,Summer,No,2025-10-18,Low Stock
+Guardian,Bandra,Crocin,Painkiller,67,48,13,Medium,5,Summer,No,2025-09-15,Available
+Guardian,Bandra,Paracetamol,Painkiller,7,41,15,Medium,2,Summer,No,2025-02-06,Low Stock
+Wellness,Bandra,Vitamin D,Supplement,70,40,15,Medium,2,Summer,No,2025-04-26,Available
+Guardian,Dadar,Dolo,Painkiller,39,21,6,Low,6,Summer,No,2025-09-05,Available
+MedPlus,Andheri,Dolo,Painkiller,74,33,10,Medium,6,Summer,No,2025-10-23,Available
+Wellness,Thane,Metformin,Diabetes,38,34,13,Medium,6,Summer,No,2025-05-10,Available
+MedPlus,Andheri,ORS,Hydration,48,31,18,High,6,Rainy,Yes,2025-08-29,Available
+Apollo,Andheri,Vitamin D,Supplement,32,42,11,Medium,3,Summer,No,2025-02-09,Low Stock
+Guardian,Andheri,Amoxicillin,Antibiotic,2,43,13,Medium,5,Summer,No,2025-03-20,Low Stock
+Guardian,Bandra,Dolo,Painkiller,8,44,16,High,5,Winter,Yes,2025-12-01,Low Stock
+MedPlus,Bandra,Crocin,Painkiller,67,39,14,Medium,2,Winter,Yes,2025-12-28,Available
+MedPlus,Thane,Insulin,Diabetes,30,43,9,Medium,3,Winter,No,2025-12-26,Low Stock
+Wellness,Thane,ORS,Hydration,60,37,24,High,3,Winter,Yes,2025-12-22,Available
+Wellness,Dadar,Amoxicillin,Antibiotic,15,35,16,High,6,Winter,Yes,2025-01-28,Low Stock
+Apollo,Bandra,Paracetamol,Painkiller,51,35,6,Low,6,Summer,No,2025-09-23,Available
+MedPlus,Thane,Metformin,Diabetes,44,24,5,Low,4,Rainy,No,2025-08-05,Available
+Apollo,Dadar,Azithromycin,Antibiotic,20,27,9,Medium,5,Winter,No,2025-01-14,Low Stock
+MedPlus,Dadar,Amoxicillin,Antibiotic,47,21,11,Medium,6,Summer,No,2025-05-18,Available
+Apollo,Dadar,Cetrizine,Allergy,63,21,6,Low,4,Summer,No,2025-03-10,Available
+MedPlus,Thane,Insulin,Diabetes,20,31,12,Medium,4,Winter,Yes,2025-01-08,Low Stock
+Apollo,Andheri,Azithromycin,Antibiotic,68,44,15,Medium,4,Rainy,Yes,2025-07-04,Available
+Apollo,Dadar,Dolo,Painkiller,73,38,10,Medium,6,Summer,No,2025-09-17,Available
+MedPlus,Dadar,Cetrizine,Allergy,25,24,13,Medium,5,Winter,Yes,2025-11-14,Available
+Wellness,Dadar,Dolo,Painkiller,10,50,12,Medium,4,Rainy,Yes,2025-08-14,Low Stock
+Apollo,Bandra,Vitamin D,Supplement,67,28,7,Low,4,Summer,No,2025-10-05,Available
+Apollo,Bandra,Metformin,Diabetes,17,26,5,Low,3,Summer,No,2025-02-01,Low Stock
+Apollo,Dadar,ORS,Hydration,60,45,18,High,5,Rainy,Yes,2025-07-05,Available
+Guardian,Bandra,Dolo,Painkiller,60,50,14,Medium,3,Rainy,Yes,2025-07-17,Available
+MedPlus,Thane,Vitamin D,Supplement,36,47,7,Low,2,Winter,No,2025-12-26,Low Stock
+MedPlus,Thane,Vitamin D,Supplement,16,29,10,Medium,4,Summer,No,2025-10-06,Low Stock
+Wellness,Thane,Paracetamol,Painkiller,80,24,12,Medium,5,Summer,No,2025-03-22,Available
+Guardian,Thane,Crocin,Painkiller,12,40,10,Medium,4,Summer,No,2025-04-16,Low Stock
+Guardian,Andheri,Crocin,Painkiller,64,38,7,Low,4,Winter,No,2025-11-19,Available
+Guardian,Bandra,Vitamin D,Supplement,71,25,7,Low,3,Summer,No,2025-04-08,Available
+Apollo,Bandra,Crocin,Painkiller,26,24,20,High,6,Rainy,Yes,2025-07-07,Available
+Guardian,Andheri,Vitamin D,Supplement,0,31,15,Medium,3,Summer,No,2025-02-11,Out of Stock
+Guardian,Thane,ORS,Hydration,34,50,15,Medium,3,Summer,No,2025-05-21,Low Stock
+MedPlus,Thane,Vitamin D,Supplement,35,26,13,Medium,4,Rainy,No,2025-08-15,Available
+Apollo,Andheri,Vitamin D,Supplement,75,47,10,Medium,4,Summer,No,2025-09-23,Available
+Wellness,Dadar,Dolo,Painkiller,66,43,19,High,3,Rainy,Yes,2025-07-29,Available
+Guardian,Dadar,Crocin,Painkiller,15,44,6,Low,2,Summer,No,2025-05-23,Low Stock
+Guardian,Dadar,Paracetamol,Painkiller,23,45,12,Medium,4,Summer,No,2025-03-22,Low Stock
+Guardian,Thane,Vitamin D,Supplement,18,24,10,Medium,5,Winter,No,2025-12-26,Low Stock
+Apollo,Bandra,Vitamin D,Supplement,22,39,11,Medium,3,Summer,No,2025-04-14,Low Stock
+MedPlus,Bandra,Crocin,Painkiller,64,45,10,Medium,5,Rainy,No,2025-08-20,Available
+Guardian,Thane,Vitamin D,Supplement,75,22,23,High,5,Rainy,Yes,2025-07-25,Available
+MedPlus,Dadar,Insulin,Diabetes,42,46,14,Medium,2,Summer,No,2025-10-10,Low Stock
+Apollo,Thane,Cetrizine,Allergy,35,33,8,Low,2,Summer,No,2025-03-18,Available
+Guardian,Dadar,Insulin,Diabetes,2,30,8,Low,3,Summer,No,2025-04-11,Low Stock
+MedPlus,Dadar,Insulin,Diabetes,24,44,5,Low,6,Rainy,No,2025-06-02,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,15,49,14,Medium,5,Summer,No,2025-02-17,Low Stock
+Wellness,Andheri,Insulin,Diabetes,26,40,21,High,2,Rainy,Yes,2025-06-29,Low Stock
+Guardian,Andheri,Vitamin D,Supplement,70,31,16,High,2,Rainy,Yes,2025-06-08,Available
+Apollo,Thane,ORS,Hydration,58,29,12,Medium,4,Rainy,No,2025-06-07,Available
+Guardian,Bandra,Azithromycin,Antibiotic,32,22,24,High,5,Rainy,Yes,2025-08-12,Available
+Guardian,Bandra,Azithromycin,Antibiotic,5,24,10,Medium,4,Winter,No,2025-12-20,Low Stock
+Wellness,Andheri,Azithromycin,Antibiotic,14,34,11,Medium,3,Winter,Yes,2025-11-17,Low Stock
+MedPlus,Thane,Cetrizine,Allergy,14,24,14,Medium,2,Winter,No,2025-01-21,Low Stock
+Guardian,Bandra,Insulin,Diabetes,63,38,6,Low,5,Rainy,No,2025-08-15,Available
+Wellness,Bandra,Insulin,Diabetes,51,33,6,Low,6,Summer,No,2025-04-21,Available
+Guardian,Andheri,Dolo,Painkiller,57,26,15,Medium,6,Rainy,Yes,2025-08-27,Available
+Guardian,Bandra,Paracetamol,Painkiller,28,40,19,High,6,Winter,Yes,2025-12-24,Low Stock
+Wellness,Bandra,Dolo,Painkiller,0,20,8,Low,5,Summer,No,2025-10-13,Out of Stock
+Wellness,Thane,Insulin,Diabetes,48,35,15,Medium,2,Winter,No,2025-11-24,Available
+Guardian,Thane,Cetrizine,Allergy,22,32,8,Low,5,Summer,No,2025-10-04,Low Stock
+MedPlus,Thane,Vitamin D,Supplement,26,24,16,High,3,Winter,Yes,2025-12-09,Available
+MedPlus,Andheri,Insulin,Diabetes,80,48,11,Medium,2,Rainy,Yes,2025-08-30,Available
+Guardian,Andheri,Crocin,Painkiller,71,35,8,Low,4,Summer,No,2025-02-14,Available
+Wellness,Thane,Cetrizine,Allergy,9,48,6,Low,2,Summer,No,2025-02-17,Low Stock
+MedPlus,Bandra,ORS,Hydration,17,41,22,High,2,Rainy,Yes,2025-06-20,Low Stock
+Wellness,Andheri,Azithromycin,Antibiotic,11,32,15,Medium,3,Summer,No,2025-09-22,Low Stock
+Wellness,Thane,Dolo,Painkiller,66,46,21,High,5,Winter,Yes,2025-12-16,Available
+Guardian,Dadar,Insulin,Diabetes,52,33,5,Low,2,Winter,No,2025-12-03,Available
+Apollo,Andheri,Vitamin D,Supplement,77,20,10,Medium,4,Rainy,No,2025-06-30,Available
+Apollo,Bandra,Metformin,Diabetes,76,42,21,High,5,Rainy,Yes,2025-07-09,Available
+Wellness,Andheri,Dolo,Painkiller,59,34,15,Medium,3,Rainy,No,2025-08-21,Available
+Wellness,Dadar,Paracetamol,Painkiller,7,47,17,High,4,Winter,Yes,2025-12-15,Low Stock
+MedPlus,Andheri,ORS,Hydration,16,50,14,Medium,2,Winter,Yes,2025-11-18,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,53,40,8,Low,2,Winter,No,2025-12-23,Available
+Guardian,Thane,Insulin,Diabetes,24,31,11,Medium,3,Winter,No,2025-11-06,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,70,22,13,Medium,4,Rainy,No,2025-08-26,Available
+Wellness,Thane,ORS,Hydration,9,30,9,Medium,2,Summer,No,2025-03-07,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,78,32,10,Medium,3,Summer,No,2025-02-02,Available
+Wellness,Dadar,Vitamin D,Supplement,57,33,7,Low,6,Summer,No,2025-04-14,Available
+MedPlus,Andheri,Insulin,Diabetes,55,41,17,High,2,Rainy,Yes,2025-08-28,Available
+Guardian,Bandra,Vitamin D,Supplement,63,43,16,High,5,Winter,Yes,2025-12-21,Available
+Wellness,Thane,Cetrizine,Allergy,68,26,13,Medium,3,Summer,No,2025-05-07,Available
+MedPlus,Andheri,ORS,Hydration,28,25,9,Medium,2,Summer,No,2025-05-04,Available
+Apollo,Andheri,Azithromycin,Antibiotic,64,38,6,Low,6,Winter,No,2025-11-08,Available
+Wellness,Andheri,Vitamin D,Supplement,37,24,18,High,5,Rainy,Yes,2025-08-03,Available
+MedPlus,Thane,Metformin,Diabetes,7,21,13,Medium,5,Winter,No,2025-11-24,Low Stock
+Apollo,Bandra,Cetrizine,Allergy,69,45,6,Low,5,Winter,No,2025-11-18,Available
+Guardian,Dadar,Insulin,Diabetes,6,30,13,Medium,3,Rainy,Yes,2025-07-04,Low Stock
+Wellness,Dadar,Crocin,Painkiller,32,32,16,High,5,Winter,Yes,2025-01-01,Available
+Guardian,Andheri,Insulin,Diabetes,11,30,20,High,5,Rainy,Yes,2025-06-16,Low Stock
+Apollo,Bandra,Metformin,Diabetes,35,48,14,Medium,5,Rainy,No,2025-08-25,Low Stock
+MedPlus,Dadar,Crocin,Painkiller,69,36,23,High,6,Rainy,Yes,2025-06-23,Available
+MedPlus,Bandra,Cetrizine,Allergy,46,24,7,Low,6,Winter,No,2025-01-30,Available
+Wellness,Dadar,ORS,Hydration,55,26,18,High,3,Rainy,Yes,2025-06-06,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,11,38,13,Medium,4,Winter,No,2025-11-20,Low Stock
+Apollo,Dadar,Dolo,Painkiller,42,37,13,Medium,2,Summer,No,2025-04-05,Available
+Guardian,Bandra,Crocin,Painkiller,48,35,19,High,4,Winter,Yes,2025-11-30,Available
+Guardian,Dadar,Amoxicillin,Antibiotic,37,37,8,Low,5,Summer,No,2025-02-23,Available
+Wellness,Thane,Paracetamol,Painkiller,34,33,13,Medium,6,Rainy,No,2025-06-15,Available
+Wellness,Andheri,Insulin,Diabetes,79,36,15,Medium,6,Winter,No,2025-01-23,Available
+MedPlus,Thane,Crocin,Painkiller,11,43,6,Low,2,Summer,No,2025-03-09,Low Stock
+Wellness,Andheri,Cetrizine,Allergy,29,45,5,Low,5,Winter,No,2025-11-28,Low Stock
+Apollo,Bandra,Dolo,Painkiller,39,28,13,Medium,5,Summer,No,2025-04-11,Available
+MedPlus,Thane,Metformin,Diabetes,0,39,13,Medium,2,Summer,No,2025-09-26,Out of Stock
+Guardian,Andheri,Amoxicillin,Antibiotic,41,36,5,Low,4,Rainy,No,2025-07-26,Available
+MedPlus,Andheri,Azithromycin,Antibiotic,66,46,20,High,2,Rainy,Yes,2025-07-07,Available
+MedPlus,Dadar,Paracetamol,Painkiller,70,45,16,High,2,Winter,Yes,2025-12-10,Available
+Apollo,Bandra,ORS,Hydration,74,37,11,Medium,5,Summer,No,2025-02-20,Available
+MedPlus,Bandra,Cetrizine,Allergy,35,27,10,Medium,3,Summer,No,2025-03-29,Available
+Apollo,Thane,Vitamin D,Supplement,74,30,14,Medium,3,Summer,No,2025-04-22,Available
+Guardian,Bandra,Metformin,Diabetes,67,37,17,High,4,Rainy,Yes,2025-07-18,Available
+Wellness,Dadar,Dolo,Painkiller,64,31,11,Medium,2,Winter,Yes,2025-11-10,Available
+Wellness,Dadar,Dolo,Painkiller,3,48,9,Medium,3,Summer,No,2025-04-17,Low Stock
+Apollo,Dadar,Amoxicillin,Antibiotic,68,43,21,High,2,Winter,Yes,2025-01-19,Available
+Guardian,Andheri,ORS,Hydration,5,50,19,High,6,Rainy,Yes,2025-06-03,Low Stock
+Apollo,Andheri,Insulin,Diabetes,16,29,5,Low,5,Summer,No,2025-04-24,Low Stock
+MedPlus,Dadar,Insulin,Diabetes,28,31,19,High,5,Rainy,Yes,2025-08-22,Low Stock
+Wellness,Dadar,Amoxicillin,Antibiotic,31,32,7,Low,2,Summer,No,2025-09-15,Low Stock
+Apollo,Thane,Crocin,Painkiller,42,50,14,Medium,2,Summer,No,2025-03-09,Low Stock
+Wellness,Thane,Metformin,Diabetes,63,48,15,Medium,5,Winter,No,2025-01-20,Available
+MedPlus,Thane,Amoxicillin,Antibiotic,69,34,9,Medium,5,Rainy,No,2025-08-05,Available
+Guardian,Dadar,ORS,Hydration,70,36,9,Medium,6,Summer,No,2025-04-18,Available
+Apollo,Thane,Azithromycin,Antibiotic,71,33,15,Medium,2,Winter,No,2025-12-10,Available
+Wellness,Bandra,Amoxicillin,Antibiotic,79,36,11,Medium,3,Summer,No,2025-10-30,Available
+Wellness,Thane,Metformin,Diabetes,50,41,9,Medium,2,Summer,No,2025-02-27,Available
+Guardian,Thane,Vitamin D,Supplement,29,28,7,Low,3,Summer,No,2025-03-16,Available
+Apollo,Dadar,Vitamin D,Supplement,74,27,11,Medium,5,Summer,No,2025-10-09,Available
+Wellness,Thane,Vitamin D,Supplement,45,20,6,Low,3,Summer,No,2025-04-06,Available
+MedPlus,Andheri,Insulin,Diabetes,68,24,11,Medium,2,Summer,No,2025-02-08,Available
+Wellness,Bandra,Azithromycin,Antibiotic,70,47,13,Medium,3,Summer,No,2025-05-25,Available
+Apollo,Bandra,Azithromycin,Antibiotic,19,31,11,Medium,6,Summer,No,2025-09-14,Low Stock
+Wellness,Bandra,Dolo,Painkiller,3,47,12,Medium,3,Summer,No,2025-05-20,Low Stock
+Guardian,Thane,Paracetamol,Painkiller,72,47,15,Medium,3,Rainy,No,2025-08-19,Available
+Wellness,Dadar,Crocin,Painkiller,47,29,8,Low,2,Summer,No,2025-04-24,Available
+Guardian,Andheri,Crocin,Painkiller,36,39,15,Medium,3,Rainy,No,2025-06-28,Low Stock
+MedPlus,Bandra,Paracetamol,Painkiller,80,48,11,Medium,4,Summer,No,2025-03-15,Available
+MedPlus,Thane,Insulin,Diabetes,44,30,10,Medium,2,Summer,No,2025-03-29,Available
+Wellness,Thane,Dolo,Painkiller,48,37,5,Low,4,Summer,No,2025-03-29,Available
+Apollo,Thane,Azithromycin,Antibiotic,30,39,12,Medium,2,Winter,No,2025-12-03,Low Stock
+Wellness,Bandra,Crocin,Painkiller,2,25,12,Medium,4,Summer,No,2025-05-31,Low Stock
+Wellness,Thane,Vitamin D,Supplement,8,32,12,Medium,2,Summer,No,2025-03-23,Low Stock
+Guardian,Andheri,Azithromycin,Antibiotic,52,24,20,High,3,Rainy,Yes,2025-07-15,Available
+Guardian,Bandra,ORS,Hydration,31,42,12,Medium,4,Rainy,No,2025-06-20,Low Stock
+MedPlus,Thane,Paracetamol,Painkiller,1,46,7,Low,6,Summer,No,2025-03-13,Low Stock
+Wellness,Bandra,Dolo,Painkiller,19,23,5,Low,2,Summer,No,2025-09-07,Low Stock
+Apollo,Dadar,Vitamin D,Supplement,21,47,8,Low,2,Winter,No,2025-01-11,Low Stock
+Apollo,Bandra,Paracetamol,Painkiller,38,45,14,Medium,5,Summer,No,2025-03-03,Low Stock
+Guardian,Bandra,Insulin,Diabetes,75,48,14,Medium,6,Summer,No,2025-10-13,Available
+Apollo,Thane,Amoxicillin,Antibiotic,22,41,10,Medium,4,Winter,No,2025-11-14,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,41,37,8,Low,5,Summer,No,2025-09-24,Available
+Guardian,Thane,Vitamin D,Supplement,29,41,8,Low,3,Winter,No,2025-12-01,Low Stock
+Guardian,Dadar,Vitamin D,Supplement,65,44,7,Low,2,Summer,No,2025-09-27,Available
+Apollo,Thane,Amoxicillin,Antibiotic,14,24,20,High,6,Rainy,Yes,2025-06-25,Low Stock
+Apollo,Thane,ORS,Hydration,24,35,9,Medium,4,Summer,No,2025-05-07,Low Stock
+Guardian,Andheri,ORS,Hydration,25,47,12,Medium,2,Winter,Yes,2025-12-18,Low Stock
+MedPlus,Thane,Dolo,Painkiller,37,45,16,High,4,Winter,Yes,2025-11-27,Low Stock
+MedPlus,Bandra,Paracetamol,Painkiller,23,28,9,Medium,3,Summer,No,2025-10-01,Low Stock
+Apollo,Thane,Amoxicillin,Antibiotic,17,48,5,Low,3,Rainy,No,2025-07-16,Low Stock
+Apollo,Bandra,Amoxicillin,Antibiotic,5,46,15,Medium,2,Summer,No,2025-03-07,Low Stock
+MedPlus,Bandra,Paracetamol,Painkiller,77,32,18,High,6,Rainy,Yes,2025-08-26,Available
+Apollo,Dadar,Crocin,Painkiller,30,37,5,Low,6,Summer,No,2025-04-26,Low Stock
+MedPlus,Bandra,Vitamin D,Supplement,9,42,20,High,2,Rainy,Yes,2025-07-05,Low Stock
+Guardian,Bandra,Paracetamol,Painkiller,32,35,14,Medium,2,Rainy,No,2025-06-13,Low Stock
+MedPlus,Bandra,Amoxicillin,Antibiotic,46,28,11,Medium,3,Summer,No,2025-05-26,Available
+Wellness,Andheri,Insulin,Diabetes,36,38,10,Medium,5,Summer,No,2025-09-28,Low Stock
+MedPlus,Bandra,Crocin,Painkiller,11,24,12,Medium,6,Summer,No,2025-03-30,Low Stock
+MedPlus,Bandra,Amoxicillin,Antibiotic,9,32,9,Medium,3,Winter,No,2025-12-17,Low Stock
+Guardian,Dadar,Paracetamol,Painkiller,20,37,11,Medium,4,Summer,No,2025-02-19,Low Stock
+Apollo,Bandra,Metformin,Diabetes,34,23,14,Medium,5,Summer,No,2025-04-27,Available
+Guardian,Andheri,Paracetamol,Painkiller,61,24,10,Medium,5,Winter,No,2025-11-12,Available
+Guardian,Dadar,Vitamin D,Supplement,43,26,17,High,5,Winter,Yes,2025-01-29,Available
+Guardian,Dadar,Metformin,Diabetes,20,29,11,Medium,4,Rainy,No,2025-08-14,Low Stock
+Guardian,Bandra,Azithromycin,Antibiotic,23,21,14,Medium,4,Rainy,Yes,2025-08-05,Available
+Wellness,Bandra,Cetrizine,Allergy,15,25,8,Low,5,Summer,No,2025-09-07,Low Stock
+Apollo,Dadar,Vitamin D,Supplement,53,31,12,Medium,5,Rainy,No,2025-06-11,Available
+Guardian,Bandra,Azithromycin,Antibiotic,55,20,21,High,2,Winter,Yes,2025-12-09,Available
+Guardian,Andheri,Crocin,Painkiller,55,29,6,Low,2,Winter,No,2025-12-03,Available
+MedPlus,Andheri,Vitamin D,Supplement,59,47,7,Low,4,Summer,No,2025-03-08,Available
+Apollo,Andheri,Insulin,Diabetes,1,35,6,Low,6,Summer,No,2025-03-06,Low Stock
+Wellness,Thane,Azithromycin,Antibiotic,37,35,12,Medium,3,Summer,No,2025-10-04,Available
+Guardian,Andheri,Dolo,Painkiller,71,48,8,Low,6,Winter,No,2025-12-28,Available
+Wellness,Andheri,Crocin,Painkiller,41,43,5,Low,2,Winter,No,2025-11-08,Low Stock
+Wellness,Bandra,Amoxicillin,Antibiotic,30,34,13,Medium,3,Summer,No,2025-02-21,Low Stock
+Wellness,Bandra,Azithromycin,Antibiotic,41,29,10,Medium,4,Summer,No,2025-03-19,Available
+Guardian,Andheri,ORS,Hydration,72,32,25,High,2,Winter,Yes,2025-12-22,Available
+Guardian,Bandra,Paracetamol,Painkiller,24,33,13,Medium,6,Summer,No,2025-10-05,Low Stock
+Wellness,Andheri,Metformin,Diabetes,8,29,18,High,3,Winter,Yes,2025-01-09,Low Stock
+Wellness,Bandra,Vitamin D,Supplement,13,27,7,Low,2,Summer,No,2025-09-04,Low Stock
+Guardian,Thane,Amoxicillin,Antibiotic,39,36,8,Low,3,Rainy,No,2025-07-08,Available
+Apollo,Thane,ORS,Hydration,26,29,23,High,4,Winter,Yes,2025-11-17,Low Stock
+Guardian,Bandra,Crocin,Painkiller,1,35,22,High,5,Winter,Yes,2025-12-09,Low Stock
+Guardian,Andheri,Amoxicillin,Antibiotic,5,42,7,Low,5,Winter,No,2025-11-27,Low Stock
+Apollo,Bandra,Crocin,Painkiller,43,29,16,High,3,Winter,Yes,2025-12-04,Available
+Wellness,Dadar,Azithromycin,Antibiotic,67,38,9,Medium,3,Winter,No,2025-12-24,Available
+Guardian,Andheri,Crocin,Painkiller,56,26,14,Medium,3,Winter,Yes,2025-01-05,Available
+Apollo,Thane,ORS,Hydration,1,49,14,Medium,6,Rainy,Yes,2025-08-23,Low Stock
+Guardian,Dadar,Insulin,Diabetes,19,23,6,Low,2,Winter,No,2025-12-07,Low Stock
+Apollo,Thane,Vitamin D,Supplement,35,21,6,Low,4,Winter,No,2025-01-12,Available
+Guardian,Bandra,Dolo,Painkiller,41,44,8,Low,5,Summer,No,2025-09-10,Low Stock
+Guardian,Bandra,Vitamin D,Supplement,57,34,17,High,2,Winter,Yes,2025-12-19,Available
+MedPlus,Andheri,Vitamin D,Supplement,11,47,8,Low,3,Winter,No,2025-11-07,Low Stock
+Apollo,Bandra,Insulin,Diabetes,15,27,13,Medium,6,Summer,No,2025-10-02,Low Stock
+MedPlus,Thane,Azithromycin,Antibiotic,50,34,7,Low,6,Summer,No,2025-10-08,Available
+MedPlus,Thane,Paracetamol,Painkiller,77,20,15,Medium,4,Winter,Yes,2025-11-18,Available
+Guardian,Andheri,Vitamin D,Supplement,72,40,11,Medium,2,Summer,No,2025-10-29,Available
+Wellness,Andheri,Dolo,Painkiller,62,37,14,Medium,3,Winter,Yes,2025-11-30,Available
+Guardian,Thane,Vitamin D,Supplement,3,46,18,High,5,Rainy,Yes,2025-08-26,Low Stock
+MedPlus,Andheri,Dolo,Painkiller,66,40,14,Medium,4,Summer,No,2025-02-17,Available
+Guardian,Dadar,ORS,Hydration,51,26,15,Medium,6,Winter,No,2025-11-02,Available
+MedPlus,Andheri,Cetrizine,Allergy,43,46,6,Low,6,Summer,No,2025-02-25,Low Stock
+Apollo,Bandra,Insulin,Diabetes,10,35,15,Medium,4,Winter,Yes,2025-12-05,Low Stock
+Guardian,Dadar,Azithromycin,Antibiotic,49,42,18,High,6,Rainy,Yes,2025-08-04,Available
+Wellness,Thane,Vitamin D,Supplement,49,39,5,Low,5,Summer,No,2025-04-05,Available
+Apollo,Bandra,Paracetamol,Painkiller,65,20,6,Low,5,Winter,No,2025-12-04,Available
+Apollo,Bandra,Insulin,Diabetes,80,24,18,High,4,Rainy,Yes,2025-06-15,Available
+MedPlus,Andheri,Cetrizine,Allergy,41,47,13,Medium,5,Summer,No,2025-09-11,Low Stock
+MedPlus,Andheri,Crocin,Painkiller,79,38,8,Low,6,Summer,No,2025-09-22,Available
+Guardian,Bandra,Dolo,Painkiller,43,30,15,Medium,3,Summer,No,2025-09-13,Available
+MedPlus,Bandra,Insulin,Diabetes,54,28,15,Medium,5,Summer,No,2025-10-02,Available
+MedPlus,Thane,Insulin,Diabetes,51,43,21,High,4,Winter,Yes,2025-01-20,Available
+MedPlus,Dadar,Insulin,Diabetes,70,24,12,Medium,3,Rainy,No,2025-06-24,Available
+Guardian,Thane,Cetrizine,Allergy,17,24,8,Low,4,Summer,No,2025-04-16,Low Stock
+Apollo,Dadar,Cetrizine,Allergy,34,37,14,Medium,5,Summer,No,2025-04-18,Low Stock
+Apollo,Andheri,Dolo,Painkiller,42,22,8,Low,6,Winter,No,2025-12-05,Available
+Guardian,Dadar,Vitamin D,Supplement,12,40,11,Medium,3,Summer,No,2025-04-26,Low Stock
+Apollo,Dadar,Vitamin D,Supplement,28,30,8,Low,6,Rainy,No,2025-06-28,Low Stock
+Apollo,Dadar,Azithromycin,Antibiotic,73,49,9,Medium,3,Rainy,No,2025-08-23,Available
+Guardian,Thane,Vitamin D,Supplement,78,30,7,Low,4,Summer,No,2025-09-08,Available
+MedPlus,Dadar,Crocin,Painkiller,32,33,10,Medium,4,Summer,No,2025-09-01,Low Stock
+Wellness,Dadar,Paracetamol,Painkiller,38,46,14,Medium,3,Summer,No,2025-09-08,Low Stock
+Apollo,Andheri,Metformin,Diabetes,5,28,21,High,2,Rainy,Yes,2025-07-27,Low Stock
+Apollo,Andheri,Dolo,Painkiller,51,22,15,Medium,4,Rainy,Yes,2025-06-13,Available
+Wellness,Dadar,Azithromycin,Antibiotic,60,25,14,Medium,2,Summer,No,2025-03-15,Available
+Wellness,Thane,Crocin,Painkiller,78,31,12,Medium,2,Summer,No,2025-05-30,Available
+Guardian,Thane,Metformin,Diabetes,0,41,10,Medium,6,Summer,No,2025-04-14,Out of Stock
+Apollo,Bandra,Vitamin D,Supplement,4,48,12,Medium,2,Summer,No,2025-10-11,Low Stock
+Apollo,Andheri,Azithromycin,Antibiotic,53,24,14,Medium,5,Rainy,No,2025-07-30,Available
+Guardian,Dadar,Metformin,Diabetes,5,29,9,Medium,6,Summer,No,2025-05-03,Low Stock
+Guardian,Dadar,ORS,Hydration,25,28,8,Low,3,Summer,No,2025-05-09,Low Stock
+Wellness,Bandra,Crocin,Painkiller,32,41,16,High,2,Winter,Yes,2025-12-25,Low Stock
+Apollo,Andheri,ORS,Hydration,76,40,12,Medium,3,Summer,No,2025-10-28,Available
+Apollo,Dadar,Crocin,Painkiller,6,29,13,Medium,4,Winter,Yes,2025-12-21,Low Stock
+MedPlus,Bandra,ORS,Hydration,42,22,9,Medium,5,Winter,No,2025-01-12,Available
+Guardian,Andheri,Vitamin D,Supplement,33,41,13,Medium,4,Winter,No,2025-11-13,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,12,38,10,Medium,4,Summer,No,2025-09-06,Low Stock
+MedPlus,Dadar,Azithromycin,Antibiotic,49,20,6,Low,3,Winter,No,2025-12-09,Available
+Wellness,Dadar,Paracetamol,Painkiller,18,43,6,Low,4,Summer,No,2025-02-06,Low Stock
+Apollo,Andheri,Insulin,Diabetes,53,30,15,Medium,5,Summer,No,2025-05-28,Available
+Wellness,Andheri,Insulin,Diabetes,45,40,12,Medium,3,Winter,No,2025-11-15,Available
+Apollo,Dadar,Dolo,Painkiller,1,39,15,Medium,3,Summer,No,2025-04-12,Low Stock
+Wellness,Thane,Cetrizine,Allergy,29,21,5,Low,3,Summer,No,2025-03-18,Available
+Guardian,Andheri,Vitamin D,Supplement,43,50,6,Low,4,Summer,No,2025-10-15,Low Stock
+Wellness,Dadar,Vitamin D,Supplement,50,26,12,Medium,4,Summer,No,2025-05-03,Available
+MedPlus,Bandra,Cetrizine,Allergy,61,25,5,Low,4,Summer,No,2025-02-09,Available
+Wellness,Andheri,Crocin,Painkiller,45,49,15,Medium,3,Summer,No,2025-04-24,Low Stock
+Apollo,Thane,ORS,Hydration,20,46,8,Low,2,Summer,No,2025-02-27,Low Stock
+Apollo,Andheri,Insulin,Diabetes,27,31,15,Medium,3,Winter,Yes,2025-12-27,Low Stock
+Guardian,Bandra,ORS,Hydration,63,49,15,Medium,4,Summer,No,2025-04-12,Available
+MedPlus,Dadar,Cetrizine,Allergy,50,31,5,Low,5,Rainy,No,2025-08-04,Available
+Wellness,Thane,Azithromycin,Antibiotic,39,26,10,Medium,5,Summer,No,2025-09-17,Available
+MedPlus,Thane,Azithromycin,Antibiotic,40,42,10,Medium,5,Rainy,No,2025-08-02,Low Stock
+Wellness,Dadar,Dolo,Painkiller,8,24,21,High,3,Rainy,Yes,2025-07-31,Low Stock
+Apollo,Dadar,Metformin,Diabetes,76,39,7,Low,6,Winter,No,2025-01-13,Available
+Apollo,Andheri,ORS,Hydration,59,36,14,Medium,3,Summer,No,2025-10-06,Available
+Apollo,Bandra,Azithromycin,Antibiotic,5,32,13,Medium,5,Rainy,No,2025-07-10,Low Stock
+MedPlus,Bandra,Azithromycin,Antibiotic,59,44,14,Medium,5,Summer,No,2025-02-27,Available
+MedPlus,Thane,Dolo,Painkiller,31,26,10,Medium,6,Winter,Yes,2025-12-17,Available
+MedPlus,Bandra,Metformin,Diabetes,43,29,13,Medium,2,Summer,No,2025-03-25,Available
+Wellness,Dadar,Vitamin D,Supplement,71,20,8,Low,6,Summer,No,2025-03-09,Available
+Apollo,Andheri,Cetrizine,Allergy,27,48,6,Low,4,Winter,No,2025-01-17,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,44,37,5,Low,6,Rainy,No,2025-07-03,Available
+MedPlus,Andheri,Metformin,Diabetes,44,32,8,Low,3,Summer,No,2025-10-18,Available
+Wellness,Andheri,Cetrizine,Allergy,70,43,17,High,3,Winter,Yes,2025-11-28,Available
+Wellness,Thane,Cetrizine,Allergy,77,26,10,Medium,2,Rainy,No,2025-08-07,Available
+Wellness,Thane,Insulin,Diabetes,22,48,6,Low,6,Rainy,No,2025-07-31,Low Stock
+Guardian,Thane,ORS,Hydration,47,34,15,Medium,5,Winter,Yes,2025-12-06,Available
+Apollo,Thane,ORS,Hydration,13,20,19,High,2,Rainy,Yes,2025-07-14,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,27,26,15,Medium,5,Winter,No,2025-11-02,Available
+Wellness,Thane,Paracetamol,Painkiller,44,29,13,Medium,2,Winter,No,2025-11-26,Available
+Wellness,Bandra,Azithromycin,Antibiotic,70,34,8,Low,6,Summer,No,2025-04-14,Available
+Guardian,Bandra,Azithromycin,Antibiotic,39,50,21,High,5,Rainy,Yes,2025-06-06,Low Stock
+MedPlus,Dadar,Insulin,Diabetes,50,26,11,Medium,4,Summer,No,2025-02-21,Available
+Guardian,Andheri,Amoxicillin,Antibiotic,52,47,13,Medium,6,Summer,No,2025-02-12,Available
+Guardian,Andheri,Crocin,Painkiller,12,49,25,High,3,Rainy,Yes,2025-07-21,Low Stock
+Guardian,Dadar,Paracetamol,Painkiller,4,40,7,Low,2,Summer,No,2025-03-07,Low Stock
+Guardian,Dadar,Crocin,Painkiller,66,20,15,Medium,2,Summer,No,2025-03-26,Available
+MedPlus,Andheri,Azithromycin,Antibiotic,30,23,14,Medium,6,Summer,No,2025-03-23,Available
+MedPlus,Andheri,Azithromycin,Antibiotic,28,39,7,Low,5,Summer,No,2025-10-07,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,80,34,22,High,6,Rainy,Yes,2025-08-31,Available
+MedPlus,Dadar,Crocin,Painkiller,57,20,10,Medium,5,Summer,No,2025-03-24,Available
+Apollo,Dadar,Paracetamol,Painkiller,47,20,12,Medium,3,Rainy,Yes,2025-06-11,Available
+Guardian,Andheri,ORS,Hydration,79,21,14,Medium,6,Rainy,Yes,2025-07-03,Available
+Guardian,Thane,Crocin,Painkiller,17,25,6,Low,2,Rainy,No,2025-08-07,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,71,33,9,Medium,4,Summer,No,2025-04-04,Available
+Guardian,Bandra,Crocin,Painkiller,37,47,15,Medium,4,Rainy,No,2025-06-20,Low Stock
+Guardian,Bandra,Cetrizine,Allergy,75,40,13,Medium,6,Rainy,No,2025-06-07,Available
+Wellness,Thane,Dolo,Painkiller,77,34,12,Medium,2,Summer,No,2025-02-17,Available
+MedPlus,Andheri,Amoxicillin,Antibiotic,46,36,22,High,6,Winter,Yes,2025-01-11,Available
+Wellness,Dadar,Azithromycin,Antibiotic,68,33,8,Low,5,Summer,No,2025-10-13,Available
+MedPlus,Andheri,ORS,Hydration,78,28,10,Medium,3,Summer,No,2025-09-01,Available
+Guardian,Bandra,Paracetamol,Painkiller,64,32,9,Medium,4,Summer,No,2025-03-17,Available
+Wellness,Thane,Vitamin D,Supplement,25,28,14,Medium,3,Rainy,Yes,2025-08-01,Low Stock
+Wellness,Thane,Azithromycin,Antibiotic,18,44,11,Medium,6,Winter,No,2025-11-21,Low Stock
+MedPlus,Dadar,Cetrizine,Allergy,13,30,15,Medium,3,Rainy,No,2025-08-11,Low Stock
+Guardian,Thane,ORS,Hydration,20,45,9,Medium,2,Summer,No,2025-02-14,Low Stock
+Wellness,Dadar,Crocin,Painkiller,36,48,13,Medium,2,Summer,No,2025-10-03,Low Stock
+MedPlus,Thane,Azithromycin,Antibiotic,26,47,5,Low,2,Winter,No,2025-11-15,Low Stock
+Wellness,Thane,Dolo,Painkiller,65,39,15,Medium,4,Winter,No,2025-11-11,Available
+Guardian,Andheri,Metformin,Diabetes,31,45,9,Medium,4,Winter,No,2025-12-01,Low Stock
+MedPlus,Bandra,Metformin,Diabetes,72,27,5,Low,5,Summer,No,2025-09-29,Available
+MedPlus,Dadar,Amoxicillin,Antibiotic,31,27,13,Medium,2,Rainy,No,2025-08-01,Available
+Guardian,Andheri,Crocin,Painkiller,72,47,11,Medium,5,Summer,No,2025-04-22,Available
+Apollo,Andheri,Insulin,Diabetes,54,26,14,Medium,2,Winter,Yes,2025-12-18,Available
+MedPlus,Dadar,ORS,Hydration,63,21,12,Medium,6,Summer,No,2025-04-13,Available
+Wellness,Dadar,Amoxicillin,Antibiotic,79,26,11,Medium,2,Summer,No,2025-02-12,Available
+MedPlus,Bandra,Azithromycin,Antibiotic,54,41,24,High,3,Rainy,Yes,2025-07-21,Available
+Guardian,Bandra,Insulin,Diabetes,79,25,9,Medium,3,Winter,No,2025-11-06,Available
+MedPlus,Thane,Crocin,Painkiller,38,28,14,Medium,2,Winter,Yes,2025-12-07,Available
+Apollo,Dadar,Dolo,Painkiller,7,50,15,Medium,4,Summer,No,2025-10-30,Low Stock
+MedPlus,Bandra,Amoxicillin,Antibiotic,5,25,11,Medium,3,Summer,No,2025-04-04,Low Stock
+Apollo,Bandra,Amoxicillin,Antibiotic,64,48,11,Medium,4,Summer,No,2025-02-09,Available
+MedPlus,Thane,Vitamin D,Supplement,74,33,24,High,4,Rainy,Yes,2025-07-20,Available
+Guardian,Andheri,Dolo,Painkiller,24,27,15,Medium,5,Summer,No,2025-10-01,Low Stock
+Apollo,Bandra,Paracetamol,Painkiller,45,28,20,High,6,Winter,Yes,2025-01-30,Available
+Wellness,Bandra,Dolo,Painkiller,80,42,8,Low,6,Summer,No,2025-04-11,Available
+Apollo,Bandra,Metformin,Diabetes,29,23,12,Medium,3,Summer,No,2025-05-20,Available
+MedPlus,Andheri,Amoxicillin,Antibiotic,40,45,16,High,6,Winter,Yes,2025-12-22,Low Stock
+Guardian,Bandra,Metformin,Diabetes,61,37,9,Medium,5,Summer,No,2025-03-20,Available
+Apollo,Andheri,ORS,Hydration,71,43,13,Medium,6,Winter,No,2025-01-22,Available
+Wellness,Thane,Vitamin D,Supplement,30,31,12,Medium,6,Winter,No,2025-12-17,Low Stock
+Guardian,Thane,Paracetamol,Painkiller,62,39,14,Medium,6,Summer,No,2025-05-04,Available
+Apollo,Thane,Amoxicillin,Antibiotic,42,48,15,Medium,3,Rainy,Yes,2025-06-25,Low Stock
+Wellness,Bandra,Crocin,Painkiller,73,31,9,Medium,3,Rainy,No,2025-06-10,Available
+MedPlus,Thane,Insulin,Diabetes,33,49,12,Medium,2,Summer,No,2025-10-03,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,52,35,9,Medium,6,Summer,No,2025-03-07,Available
+MedPlus,Thane,Vitamin D,Supplement,10,20,6,Low,6,Summer,No,2025-05-06,Low Stock
+MedPlus,Bandra,Dolo,Painkiller,27,42,9,Medium,3,Rainy,No,2025-07-23,Low Stock
+Wellness,Thane,Vitamin D,Supplement,9,28,12,Medium,5,Winter,No,2025-12-25,Low Stock
+Apollo,Bandra,Crocin,Painkiller,37,37,17,High,2,Rainy,Yes,2025-08-11,Available
+Apollo,Thane,Insulin,Diabetes,34,23,12,Medium,2,Rainy,Yes,2025-06-24,Available
+Guardian,Dadar,Cetrizine,Allergy,2,29,12,Medium,3,Winter,Yes,2025-12-03,Low Stock
+Apollo,Andheri,Crocin,Painkiller,12,37,11,Medium,4,Summer,No,2025-03-15,Low Stock
+Guardian,Andheri,Cetrizine,Allergy,31,28,9,Medium,2,Summer,No,2025-04-28,Available
+Guardian,Dadar,Metformin,Diabetes,63,23,14,Medium,6,Rainy,No,2025-06-27,Available
+MedPlus,Thane,Crocin,Painkiller,8,50,19,High,4,Winter,Yes,2025-01-11,Low Stock
+Apollo,Thane,Amoxicillin,Antibiotic,55,34,10,Medium,6,Summer,No,2025-10-13,Available
+Guardian,Dadar,Amoxicillin,Antibiotic,25,23,14,Medium,5,Winter,Yes,2025-01-22,Available
+Apollo,Bandra,Dolo,Painkiller,8,34,17,High,2,Rainy,Yes,2025-07-04,Low Stock
+MedPlus,Andheri,Azithromycin,Antibiotic,15,21,6,Low,5,Winter,No,2025-11-04,Low Stock
+Apollo,Thane,ORS,Hydration,36,27,15,Medium,4,Rainy,No,2025-08-22,Available
+Wellness,Thane,Vitamin D,Supplement,24,38,6,Low,6,Summer,No,2025-04-29,Low Stock
+Wellness,Andheri,Insulin,Diabetes,43,22,7,Low,5,Summer,No,2025-03-21,Available
+Guardian,Dadar,ORS,Hydration,43,42,15,Medium,6,Summer,No,2025-03-06,Available
+Apollo,Bandra,Insulin,Diabetes,76,27,20,High,5,Winter,Yes,2025-01-29,Available
+Apollo,Thane,Metformin,Diabetes,71,20,12,Medium,3,Summer,No,2025-02-20,Available
+Apollo,Andheri,Azithromycin,Antibiotic,47,39,15,Medium,6,Summer,No,2025-04-27,Available
+MedPlus,Bandra,Dolo,Painkiller,22,30,21,High,3,Rainy,Yes,2025-08-30,Low Stock
+MedPlus,Bandra,Metformin,Diabetes,44,26,6,Low,2,Rainy,No,2025-08-21,Available
+Wellness,Andheri,Crocin,Painkiller,13,49,5,Low,6,Summer,No,2025-02-21,Low Stock
+Guardian,Andheri,Insulin,Diabetes,25,40,14,Medium,3,Summer,No,2025-09-02,Low Stock
+Guardian,Thane,Metformin,Diabetes,19,50,12,Medium,4,Summer,No,2025-03-31,Low Stock
+Wellness,Thane,Metformin,Diabetes,47,42,15,Medium,3,Winter,Yes,2025-12-13,Available
+Wellness,Andheri,Insulin,Diabetes,73,20,15,Medium,5,Summer,No,2025-09-28,Available
+Wellness,Thane,Azithromycin,Antibiotic,42,25,12,Medium,3,Rainy,No,2025-06-29,Available
+MedPlus,Bandra,Cetrizine,Allergy,57,45,13,Medium,4,Winter,Yes,2025-11-05,Available
+Guardian,Thane,Metformin,Diabetes,26,43,14,Medium,6,Rainy,Yes,2025-06-27,Low Stock
+Guardian,Bandra,Azithromycin,Antibiotic,9,50,14,Medium,6,Rainy,Yes,2025-07-31,Low Stock
+Apollo,Bandra,Dolo,Painkiller,43,50,9,Medium,4,Summer,No,2025-03-09,Low Stock
+Guardian,Bandra,ORS,Hydration,22,27,19,High,5,Rainy,Yes,2025-06-06,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,12,23,6,Low,6,Summer,No,2025-04-15,Low Stock
+MedPlus,Thane,Paracetamol,Painkiller,38,36,13,Medium,2,Summer,No,2025-03-01,Available
+Wellness,Dadar,Amoxicillin,Antibiotic,42,32,9,Medium,6,Summer,No,2025-04-11,Available
+Wellness,Dadar,Vitamin D,Supplement,19,50,8,Low,6,Summer,No,2025-09-18,Low Stock
+Guardian,Dadar,Vitamin D,Supplement,43,23,9,Medium,5,Summer,No,2025-03-18,Available
+Guardian,Thane,Metformin,Diabetes,11,27,14,Medium,3,Rainy,Yes,2025-06-11,Low Stock
+Apollo,Bandra,Insulin,Diabetes,73,28,7,Low,3,Summer,No,2025-05-31,Available
+MedPlus,Andheri,Paracetamol,Painkiller,26,29,14,Medium,3,Rainy,Yes,2025-08-10,Low Stock
+Wellness,Bandra,Cetrizine,Allergy,79,49,19,High,5,Rainy,Yes,2025-08-15,Available
+Apollo,Dadar,Metformin,Diabetes,32,42,12,Medium,2,Summer,No,2025-10-04,Low Stock
+Wellness,Dadar,Amoxicillin,Antibiotic,53,37,14,Medium,6,Summer,No,2025-02-11,Available
+Guardian,Dadar,Vitamin D,Supplement,26,20,8,Low,4,Summer,No,2025-04-22,Available
+Wellness,Bandra,ORS,Hydration,24,48,20,High,5,Rainy,Yes,2025-07-31,Low Stock
+MedPlus,Dadar,Paracetamol,Painkiller,27,28,18,High,3,Winter,Yes,2025-12-19,Low Stock
+MedPlus,Bandra,Amoxicillin,Antibiotic,13,31,14,Medium,3,Summer,No,2025-03-11,Low Stock
+Wellness,Andheri,Metformin,Diabetes,19,39,13,Medium,5,Summer,No,2025-09-07,Low Stock
+Apollo,Bandra,Paracetamol,Painkiller,79,43,12,Medium,5,Summer,No,2025-03-26,Available
+Apollo,Andheri,Vitamin D,Supplement,50,22,13,Medium,3,Winter,No,2025-01-08,Available
+Wellness,Andheri,Amoxicillin,Antibiotic,27,49,19,High,4,Winter,Yes,2025-01-07,Low Stock
+Guardian,Bandra,Vitamin D,Supplement,75,30,9,Medium,4,Summer,No,2025-04-22,Available
+Apollo,Bandra,Azithromycin,Antibiotic,15,26,11,Medium,6,Summer,No,2025-04-13,Low Stock
+MedPlus,Andheri,Vitamin D,Supplement,16,25,5,Low,5,Summer,No,2025-03-11,Low Stock
+Apollo,Andheri,Metformin,Diabetes,48,44,13,Medium,3,Summer,No,2025-10-24,Available
+Guardian,Thane,Vitamin D,Supplement,39,44,19,High,2,Winter,Yes,2025-11-11,Low Stock
+Apollo,Bandra,ORS,Hydration,59,39,9,Medium,2,Winter,No,2025-11-17,Available
+Apollo,Bandra,Amoxicillin,Antibiotic,57,32,8,Low,6,Summer,No,2025-05-15,Available
+Guardian,Thane,Vitamin D,Supplement,64,37,15,Medium,5,Rainy,Yes,2025-08-03,Available
+Apollo,Andheri,Metformin,Diabetes,18,47,14,Medium,6,Summer,No,2025-02-01,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,73,42,6,Low,4,Summer,No,2025-04-13,Available
+MedPlus,Bandra,Dolo,Painkiller,69,49,12,Medium,2,Rainy,No,2025-06-06,Available
+MedPlus,Bandra,ORS,Hydration,35,41,8,Low,5,Summer,No,2025-09-09,Low Stock
+Wellness,Dadar,Cetrizine,Allergy,3,43,16,High,6,Winter,Yes,2025-11-09,Low Stock
+MedPlus,Thane,Paracetamol,Painkiller,2,34,14,Medium,5,Summer,No,2025-03-30,Low Stock
+Wellness,Dadar,Azithromycin,Antibiotic,76,26,9,Medium,6,Summer,No,2025-05-02,Available
+Wellness,Andheri,Paracetamol,Painkiller,72,25,11,Medium,4,Winter,No,2025-12-16,Available
+Guardian,Dadar,Insulin,Diabetes,75,41,13,Medium,6,Winter,No,2025-12-08,Available
+Apollo,Andheri,Azithromycin,Antibiotic,31,44,11,Medium,6,Summer,No,2025-09-10,Low Stock
+Guardian,Thane,ORS,Hydration,36,47,15,Medium,2,Winter,No,2025-11-09,Low Stock
+Guardian,Bandra,Insulin,Diabetes,18,38,16,High,6,Winter,Yes,2025-12-12,Low Stock
+Wellness,Dadar,Crocin,Painkiller,39,30,7,Low,3,Rainy,No,2025-07-03,Available
+Apollo,Bandra,Insulin,Diabetes,57,44,24,High,3,Winter,Yes,2025-12-08,Available
+Wellness,Thane,ORS,Hydration,66,27,14,Medium,4,Winter,No,2025-12-21,Available
+MedPlus,Dadar,Vitamin D,Supplement,15,29,16,High,3,Rainy,Yes,2025-08-01,Low Stock
+MedPlus,Bandra,Paracetamol,Painkiller,28,41,13,Medium,6,Rainy,No,2025-06-21,Low Stock
+Guardian,Thane,Dolo,Painkiller,32,38,5,Low,6,Summer,No,2025-05-19,Low Stock
+Wellness,Dadar,Azithromycin,Antibiotic,40,22,6,Low,6,Summer,No,2025-10-20,Available
+Guardian,Andheri,Vitamin D,Supplement,11,27,8,Low,5,Winter,No,2025-12-09,Low Stock
+Apollo,Andheri,Dolo,Painkiller,10,44,11,Medium,6,Winter,No,2025-01-07,Low Stock
+MedPlus,Andheri,Insulin,Diabetes,70,39,6,Low,2,Summer,No,2025-05-15,Available
+Apollo,Andheri,Crocin,Painkiller,14,46,10,Medium,6,Summer,No,2025-03-05,Low Stock
+Apollo,Andheri,Insulin,Diabetes,77,31,11,Medium,3,Summer,No,2025-03-08,Available
+Guardian,Andheri,Cetrizine,Allergy,45,38,14,Medium,3,Summer,No,2025-03-07,Available
+Wellness,Bandra,Dolo,Painkiller,44,47,12,Medium,5,Rainy,No,2025-07-23,Low Stock
+Wellness,Bandra,Amoxicillin,Antibiotic,74,20,19,High,3,Winter,Yes,2025-01-05,Available
+Wellness,Bandra,ORS,Hydration,44,24,13,Medium,3,Summer,No,2025-04-11,Available
+Wellness,Dadar,ORS,Hydration,44,48,21,High,2,Rainy,Yes,2025-07-10,Low Stock
+Apollo,Dadar,Metformin,Diabetes,63,37,11,Medium,5,Summer,No,2025-09-13,Available
+Apollo,Dadar,Dolo,Painkiller,42,48,16,High,5,Rainy,Yes,2025-08-19,Low Stock
+Wellness,Bandra,ORS,Hydration,46,36,14,Medium,3,Winter,Yes,2025-12-17,Available
+MedPlus,Dadar,Amoxicillin,Antibiotic,62,29,9,Medium,6,Winter,No,2025-12-29,Available
+MedPlus,Andheri,Crocin,Painkiller,9,23,9,Medium,4,Rainy,No,2025-08-05,Low Stock
+Guardian,Bandra,Vitamin D,Supplement,58,45,8,Low,2,Summer,No,2025-03-20,Available
+Apollo,Thane,Crocin,Painkiller,26,30,10,Medium,3,Summer,No,2025-10-29,Low Stock
+Apollo,Dadar,Amoxicillin,Antibiotic,79,32,8,Low,4,Summer,No,2025-05-10,Available
+Apollo,Thane,Crocin,Painkiller,79,21,16,High,2,Rainy,Yes,2025-08-16,Available
+MedPlus,Dadar,Dolo,Painkiller,6,24,10,Medium,4,Summer,No,2025-04-01,Low Stock
+Apollo,Bandra,Metformin,Diabetes,26,21,13,Medium,6,Summer,No,2025-10-01,Available
+MedPlus,Dadar,Vitamin D,Supplement,12,35,12,Medium,2,Summer,No,2025-05-02,Low Stock
+Apollo,Bandra,Paracetamol,Painkiller,70,49,12,Medium,6,Summer,No,2025-04-27,Available
+Apollo,Andheri,Cetrizine,Allergy,4,31,9,Medium,6,Summer,No,2025-02-04,Low Stock
+Wellness,Bandra,Dolo,Painkiller,48,20,11,Medium,5,Rainy,No,2025-07-28,Available
+Guardian,Bandra,Insulin,Diabetes,41,42,10,Medium,2,Rainy,No,2025-08-03,Low Stock
+MedPlus,Bandra,Azithromycin,Antibiotic,53,44,8,Low,2,Summer,No,2025-10-12,Available
+Guardian,Dadar,Metformin,Diabetes,7,32,10,Medium,3,Rainy,No,2025-06-07,Low Stock
+Wellness,Bandra,Cetrizine,Allergy,43,20,5,Low,5,Summer,No,2025-05-16,Available
+Wellness,Thane,Amoxicillin,Antibiotic,68,34,13,Medium,5,Rainy,No,2025-08-14,Available
+Apollo,Bandra,Metformin,Diabetes,13,45,5,Low,3,Summer,No,2025-02-02,Low Stock
+Guardian,Bandra,Cetrizine,Allergy,79,35,11,Medium,6,Summer,No,2025-02-04,Available
+MedPlus,Bandra,Vitamin D,Supplement,3,21,17,High,4,Winter,Yes,2025-11-10,Low Stock
+MedPlus,Bandra,Paracetamol,Painkiller,6,36,6,Low,2,Winter,No,2025-01-22,Low Stock
+Wellness,Thane,Dolo,Painkiller,11,47,13,Medium,5,Rainy,No,2025-08-04,Low Stock
+MedPlus,Dadar,ORS,Hydration,19,46,11,Medium,6,Summer,No,2025-03-26,Low Stock
+Apollo,Andheri,Azithromycin,Antibiotic,11,20,7,Low,2,Summer,No,2025-04-08,Low Stock
+Guardian,Bandra,ORS,Hydration,45,50,5,Low,4,Summer,No,2025-04-28,Low Stock
+Apollo,Andheri,Crocin,Painkiller,13,22,9,Medium,4,Summer,No,2025-10-04,Low Stock
+Apollo,Bandra,Metformin,Diabetes,55,21,8,Low,2,Summer,No,2025-05-09,Available
+Wellness,Bandra,Cetrizine,Allergy,17,39,9,Medium,4,Winter,No,2025-11-28,Low Stock
+MedPlus,Andheri,Paracetamol,Painkiller,27,36,17,High,3,Winter,Yes,2025-01-21,Low Stock
+Apollo,Andheri,Vitamin D,Supplement,30,20,12,Medium,4,Winter,No,2025-01-13,Available
+Guardian,Thane,Metformin,Diabetes,54,21,5,Low,4,Rainy,No,2025-06-29,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,50,23,20,High,4,Winter,Yes,2025-11-22,Available
+MedPlus,Bandra,Dolo,Painkiller,34,33,21,High,2,Winter,Yes,2025-12-21,Available
+Wellness,Thane,Metformin,Diabetes,48,49,12,Medium,6,Summer,No,2025-10-19,Low Stock
+Wellness,Bandra,Azithromycin,Antibiotic,44,30,13,Medium,2,Winter,No,2025-12-07,Available
+Guardian,Andheri,Cetrizine,Allergy,17,23,7,Low,3,Summer,No,2025-09-29,Low Stock
+Apollo,Andheri,Vitamin D,Supplement,34,44,5,Low,4,Summer,No,2025-05-03,Low Stock
+MedPlus,Bandra,Insulin,Diabetes,70,27,22,High,4,Winter,Yes,2025-11-26,Available
+Guardian,Andheri,Insulin,Diabetes,63,49,7,Low,5,Summer,No,2025-03-05,Available
+Wellness,Andheri,Metformin,Diabetes,51,47,7,Low,4,Summer,No,2025-09-24,Available
+Apollo,Dadar,Dolo,Painkiller,47,28,8,Low,4,Summer,No,2025-04-11,Available
+MedPlus,Dadar,Metformin,Diabetes,69,27,13,Medium,5,Rainy,No,2025-06-19,Available
+Wellness,Bandra,Cetrizine,Allergy,63,50,12,Medium,6,Rainy,No,2025-08-17,Available
+Wellness,Dadar,Insulin,Diabetes,46,35,15,Medium,3,Summer,No,2025-04-12,Available
+Apollo,Dadar,Insulin,Diabetes,72,24,15,Medium,2,Summer,No,2025-09-21,Available
+MedPlus,Dadar,Cetrizine,Allergy,80,38,14,Medium,3,Summer,No,2025-04-12,Available
+Guardian,Bandra,Vitamin D,Supplement,36,27,23,High,6,Rainy,Yes,2025-06-13,Available
+Apollo,Dadar,Vitamin D,Supplement,55,29,11,Medium,5,Rainy,Yes,2025-07-25,Available
+MedPlus,Dadar,Metformin,Diabetes,35,39,10,Medium,2,Winter,No,2025-01-14,Low Stock
+Guardian,Bandra,Crocin,Painkiller,50,36,13,Medium,2,Rainy,No,2025-07-23,Available
+Apollo,Bandra,Vitamin D,Supplement,78,30,8,Low,6,Summer,No,2025-04-09,Available
+MedPlus,Andheri,Crocin,Painkiller,43,25,8,Low,2,Winter,No,2025-12-21,Available
+Apollo,Bandra,Dolo,Painkiller,69,47,14,Medium,5,Winter,No,2025-01-30,Available
+Guardian,Andheri,Amoxicillin,Antibiotic,12,28,10,Medium,2,Rainy,Yes,2025-06-29,Low Stock
+Guardian,Bandra,Dolo,Painkiller,69,44,18,High,4,Rainy,Yes,2025-06-23,Available
+MedPlus,Thane,ORS,Hydration,67,46,7,Low,4,Summer,No,2025-05-19,Available
+MedPlus,Thane,Metformin,Diabetes,76,33,13,Medium,6,Winter,No,2025-11-02,Available
+Wellness,Bandra,Paracetamol,Painkiller,36,34,22,High,3,Winter,Yes,2025-12-03,Available
+Wellness,Thane,Dolo,Painkiller,75,48,6,Low,6,Summer,No,2025-10-18,Available
+Wellness,Thane,Paracetamol,Painkiller,30,45,14,Medium,5,Summer,No,2025-04-17,Low Stock
+Wellness,Dadar,Amoxicillin,Antibiotic,33,36,14,Medium,6,Winter,No,2025-01-05,Low Stock
+Apollo,Andheri,Cetrizine,Allergy,39,33,14,Medium,5,Winter,Yes,2025-12-01,Available
+Apollo,Andheri,Cetrizine,Allergy,74,24,13,Medium,3,Summer,No,2025-02-25,Available
+Guardian,Thane,Azithromycin,Antibiotic,47,33,8,Low,3,Summer,No,2025-04-18,Available
+Apollo,Dadar,Crocin,Painkiller,48,30,5,Low,6,Summer,No,2025-10-22,Available
+Apollo,Thane,Amoxicillin,Antibiotic,31,49,13,Medium,6,Rainy,No,2025-08-19,Low Stock
+Guardian,Dadar,Metformin,Diabetes,40,47,13,Medium,2,Rainy,Yes,2025-06-22,Low Stock
+Wellness,Thane,ORS,Hydration,29,42,14,Medium,2,Winter,Yes,2025-01-30,Low Stock
+Wellness,Dadar,ORS,Hydration,27,21,13,Medium,6,Rainy,Yes,2025-06-06,Available
+Guardian,Bandra,Crocin,Painkiller,23,47,13,Medium,2,Summer,No,2025-03-03,Low Stock
+Apollo,Andheri,Amoxicillin,Antibiotic,74,48,13,Medium,6,Summer,No,2025-09-16,Available
+Guardian,Thane,Crocin,Painkiller,60,45,22,High,5,Rainy,Yes,2025-07-10,Available
+MedPlus,Andheri,ORS,Hydration,7,21,15,Medium,5,Summer,No,2025-09-23,Low Stock
+Wellness,Thane,Metformin,Diabetes,69,41,12,Medium,2,Winter,No,2025-11-05,Available
+Guardian,Thane,ORS,Hydration,0,27,16,High,3,Winter,Yes,2025-01-01,Out of Stock
+Apollo,Dadar,ORS,Hydration,49,30,13,Medium,6,Summer,No,2025-04-23,Available
+Wellness,Bandra,Paracetamol,Painkiller,79,26,13,Medium,4,Winter,No,2025-11-28,Available
+Wellness,Andheri,Insulin,Diabetes,34,41,9,Medium,5,Summer,No,2025-04-07,Low Stock
+Apollo,Bandra,Vitamin D,Supplement,0,38,7,Low,6,Summer,No,2025-04-30,Out of Stock
+Apollo,Bandra,ORS,Hydration,9,34,15,Medium,4,Rainy,Yes,2025-06-18,Low Stock
+Apollo,Andheri,Amoxicillin,Antibiotic,69,50,14,Medium,5,Winter,No,2025-12-21,Available
+Guardian,Andheri,Vitamin D,Supplement,9,24,23,High,4,Winter,Yes,2025-01-04,Low Stock
+Guardian,Thane,Vitamin D,Supplement,65,25,14,Medium,6,Summer,No,2025-09-17,Available
+MedPlus,Bandra,Azithromycin,Antibiotic,11,41,21,High,3,Rainy,Yes,2025-08-01,Low Stock
+MedPlus,Bandra,Crocin,Painkiller,79,26,13,Medium,2,Summer,No,2025-10-07,Available
+MedPlus,Thane,Metformin,Diabetes,60,38,5,Low,6,Summer,No,2025-03-25,Available
+Wellness,Dadar,Azithromycin,Antibiotic,67,46,7,Low,3,Summer,No,2025-02-03,Available
+MedPlus,Andheri,Dolo,Painkiller,52,42,11,Medium,4,Winter,No,2025-11-01,Available
+Apollo,Dadar,Amoxicillin,Antibiotic,46,39,25,High,2,Rainy,Yes,2025-06-28,Available
+MedPlus,Thane,Paracetamol,Painkiller,4,35,10,Medium,6,Summer,No,2025-04-27,Low Stock
+Guardian,Thane,Amoxicillin,Antibiotic,54,43,21,High,2,Winter,Yes,2025-12-09,Available
+Wellness,Andheri,Insulin,Diabetes,17,29,11,Medium,3,Summer,No,2025-09-21,Low Stock
+Wellness,Thane,Cetrizine,Allergy,76,30,21,High,6,Rainy,Yes,2025-08-31,Available
+Guardian,Dadar,Amoxicillin,Antibiotic,25,22,7,Low,5,Winter,No,2025-11-26,Available
+Guardian,Andheri,Paracetamol,Painkiller,39,49,13,Medium,3,Rainy,No,2025-08-26,Low Stock
+MedPlus,Dadar,Metformin,Diabetes,11,36,11,Medium,4,Summer,No,2025-09-21,Low Stock
+Guardian,Dadar,Metformin,Diabetes,61,34,11,Medium,4,Summer,No,2025-03-27,Available
+Guardian,Dadar,Metformin,Diabetes,30,22,8,Low,3,Summer,No,2025-02-25,Available
+Guardian,Bandra,Cetrizine,Allergy,80,26,9,Medium,2,Summer,No,2025-04-10,Available
+Wellness,Bandra,Dolo,Painkiller,23,38,6,Low,5,Winter,No,2025-01-06,Low Stock
+MedPlus,Bandra,Vitamin D,Supplement,48,48,7,Low,3,Winter,No,2026-01-01,Available
+Guardian,Andheri,Cetrizine,Allergy,25,44,13,Medium,3,Winter,No,2025-12-26,Low Stock
+Apollo,Dadar,Insulin,Diabetes,6,29,14,Medium,5,Rainy,Yes,2025-06-30,Low Stock
+Apollo,Bandra,Dolo,Painkiller,45,47,9,Medium,2,Summer,No,2025-09-17,Low Stock
+Guardian,Dadar,Dolo,Painkiller,0,34,15,Medium,3,Summer,No,2025-02-16,Out of Stock
+Wellness,Bandra,Paracetamol,Painkiller,79,49,7,Low,2,Summer,No,2025-10-01,Available
+Apollo,Dadar,Crocin,Painkiller,2,28,21,High,4,Rainy,Yes,2025-06-11,Low Stock
+Apollo,Dadar,Paracetamol,Painkiller,47,32,15,Medium,6,Rainy,Yes,2025-08-30,Available
+Wellness,Dadar,Paracetamol,Painkiller,8,42,12,Medium,5,Rainy,Yes,2025-08-21,Low Stock
+Guardian,Andheri,Amoxicillin,Antibiotic,71,41,17,High,5,Winter,Yes,2025-12-20,Available
+Apollo,Andheri,Azithromycin,Antibiotic,34,23,5,Low,4,Winter,No,2025-12-24,Available
+Guardian,Thane,Metformin,Diabetes,53,43,10,Medium,6,Rainy,Yes,2025-07-15,Available
+MedPlus,Thane,Crocin,Painkiller,16,31,11,Medium,2,Winter,No,2025-12-04,Low Stock
+Apollo,Thane,Azithromycin,Antibiotic,64,20,5,Low,3,Summer,No,2025-09-15,Available
+Guardian,Bandra,Dolo,Painkiller,24,30,9,Medium,2,Summer,No,2025-03-10,Low Stock
+Guardian,Bandra,Dolo,Painkiller,46,37,13,Medium,6,Summer,No,2025-10-31,Available
+Guardian,Thane,ORS,Hydration,26,46,12,Medium,5,Summer,No,2025-10-14,Low Stock
+Guardian,Andheri,Paracetamol,Painkiller,34,32,11,Medium,3,Summer,No,2025-05-19,Available
+Apollo,Bandra,Paracetamol,Painkiller,52,37,11,Medium,3,Summer,No,2025-05-08,Available
+Wellness,Andheri,Vitamin D,Supplement,8,43,13,Medium,4,Summer,No,2025-10-22,Low Stock
+Guardian,Dadar,ORS,Hydration,41,37,10,Medium,3,Summer,No,2025-03-28,Available
+Guardian,Bandra,Vitamin D,Supplement,71,20,9,Medium,5,Summer,No,2025-10-07,Available
+Apollo,Andheri,Dolo,Painkiller,2,48,10,Medium,2,Summer,No,2025-05-17,Low Stock
+Wellness,Dadar,Vitamin D,Supplement,59,34,15,Medium,2,Summer,No,2025-02-04,Available
+Apollo,Thane,Cetrizine,Allergy,55,41,13,Medium,4,Summer,No,2025-05-23,Available
+Guardian,Thane,ORS,Hydration,16,24,7,Low,3,Summer,No,2025-05-25,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,75,31,7,Low,3,Summer,No,2025-05-25,Available
+Wellness,Thane,Vitamin D,Supplement,45,37,22,High,6,Rainy,Yes,2025-07-07,Available
+Guardian,Andheri,ORS,Hydration,70,48,18,High,5,Rainy,Yes,2025-06-20,Available
+Guardian,Dadar,Azithromycin,Antibiotic,12,26,14,Medium,4,Rainy,No,2025-07-24,Low Stock
+Wellness,Bandra,Vitamin D,Supplement,60,41,21,High,6,Rainy,Yes,2025-07-06,Available
+Wellness,Dadar,Paracetamol,Painkiller,27,21,20,High,6,Rainy,Yes,2025-08-16,Available
+MedPlus,Bandra,Metformin,Diabetes,35,20,14,Medium,4,Rainy,Yes,2025-08-09,Available
+Guardian,Thane,Vitamin D,Supplement,57,46,13,Medium,5,Winter,Yes,2025-12-09,Available
+MedPlus,Thane,Azithromycin,Antibiotic,6,29,15,Medium,2,Rainy,Yes,2025-07-06,Low Stock
+Apollo,Bandra,Paracetamol,Painkiller,78,26,6,Low,6,Summer,No,2025-03-26,Available
+Guardian,Bandra,Vitamin D,Supplement,2,35,9,Medium,2,Summer,No,2025-03-17,Low Stock
+MedPlus,Andheri,Crocin,Painkiller,55,22,15,Medium,3,Summer,No,2025-02-24,Available
+Guardian,Dadar,Metformin,Diabetes,0,21,20,High,3,Rainy,Yes,2025-07-08,Out of Stock
+Apollo,Andheri,Azithromycin,Antibiotic,42,25,5,Low,5,Summer,No,2025-02-04,Available
+MedPlus,Bandra,Paracetamol,Painkiller,71,23,13,Medium,5,Rainy,No,2025-06-13,Available
+Wellness,Andheri,Insulin,Diabetes,72,45,24,High,5,Rainy,Yes,2025-06-09,Available
+Wellness,Bandra,Cetrizine,Allergy,76,23,19,High,5,Rainy,Yes,2025-07-09,Available
+MedPlus,Bandra,Crocin,Painkiller,45,38,6,Low,6,Summer,No,2025-05-17,Available
+Apollo,Andheri,Paracetamol,Painkiller,5,43,9,Medium,3,Summer,No,2025-03-02,Low Stock
+MedPlus,Dadar,Dolo,Painkiller,11,27,15,Medium,3,Summer,No,2025-10-28,Low Stock
+Guardian,Bandra,Amoxicillin,Antibiotic,58,20,6,Low,2,Summer,No,2025-09-22,Available
+MedPlus,Dadar,Cetrizine,Allergy,72,46,21,High,3,Winter,Yes,2025-01-28,Available
+Guardian,Bandra,Metformin,Diabetes,38,35,20,High,3,Winter,Yes,2025-12-30,Available
+MedPlus,Thane,Crocin,Painkiller,1,49,19,High,4,Rainy,Yes,2025-08-02,Low Stock
+Wellness,Thane,Dolo,Painkiller,48,38,14,Medium,6,Summer,No,2025-05-18,Available
+Guardian,Thane,Insulin,Diabetes,29,47,8,Low,3,Summer,No,2025-03-12,Low Stock
+Apollo,Andheri,Dolo,Painkiller,19,31,9,Medium,4,Summer,No,2025-05-08,Low Stock
+MedPlus,Bandra,Cetrizine,Allergy,46,37,18,High,3,Rainy,Yes,2025-06-18,Available
+Apollo,Andheri,Azithromycin,Antibiotic,78,22,13,Medium,4,Summer,No,2025-10-07,Available
+Wellness,Thane,Cetrizine,Allergy,61,43,7,Low,2,Summer,No,2025-10-04,Available
+Wellness,Andheri,Azithromycin,Antibiotic,68,38,11,Medium,6,Summer,No,2025-09-07,Available
+MedPlus,Dadar,Insulin,Diabetes,26,20,11,Medium,2,Rainy,Yes,2025-07-03,Available
+Wellness,Andheri,Crocin,Painkiller,51,38,5,Low,3,Summer,No,2025-04-20,Available
+MedPlus,Andheri,Crocin,Painkiller,6,30,5,Low,6,Summer,No,2025-04-29,Low Stock
+Apollo,Dadar,Metformin,Diabetes,64,46,15,Medium,5,Summer,No,2025-03-02,Available
+Guardian,Dadar,Paracetamol,Painkiller,24,50,10,Medium,3,Winter,No,2025-01-11,Low Stock
+Apollo,Thane,Metformin,Diabetes,1,47,11,Medium,6,Rainy,No,2025-08-26,Low Stock
+Apollo,Thane,Azithromycin,Antibiotic,43,21,15,Medium,6,Summer,No,2025-05-21,Available
+MedPlus,Dadar,Crocin,Painkiller,41,47,10,Medium,6,Winter,No,2025-11-26,Low Stock
+MedPlus,Thane,Metformin,Diabetes,78,36,14,Medium,5,Rainy,No,2025-08-14,Available
+MedPlus,Dadar,Paracetamol,Painkiller,72,49,6,Low,2,Rainy,No,2025-08-10,Available
+Wellness,Thane,Insulin,Diabetes,51,22,14,Medium,2,Winter,No,2025-11-08,Available
+MedPlus,Thane,ORS,Hydration,36,29,13,Medium,3,Summer,No,2025-09-26,Available
+Apollo,Andheri,Azithromycin,Antibiotic,30,25,13,Medium,6,Summer,No,2025-05-29,Available
+MedPlus,Andheri,ORS,Hydration,8,45,9,Medium,6,Summer,No,2025-10-06,Low Stock
+Apollo,Andheri,Insulin,Diabetes,38,28,9,Medium,5,Summer,No,2025-10-28,Available
+Wellness,Dadar,ORS,Hydration,50,22,11,Medium,3,Summer,No,2025-04-19,Available
+Guardian,Bandra,Amoxicillin,Antibiotic,39,31,9,Medium,5,Winter,No,2025-01-11,Available
+Guardian,Thane,Azithromycin,Antibiotic,7,22,14,Medium,4,Rainy,No,2025-06-23,Low Stock
+Apollo,Bandra,Insulin,Diabetes,24,24,8,Low,6,Summer,No,2025-09-11,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,58,24,11,Medium,5,Winter,No,2025-11-28,Available
+Guardian,Bandra,Metformin,Diabetes,40,27,6,Low,5,Summer,No,2025-02-14,Available
+Apollo,Dadar,Azithromycin,Antibiotic,12,40,20,High,6,Rainy,Yes,2025-07-18,Low Stock
+MedPlus,Andheri,Azithromycin,Antibiotic,30,37,21,High,4,Winter,Yes,2025-01-08,Low Stock
+MedPlus,Dadar,Cetrizine,Allergy,56,48,5,Low,2,Winter,No,2025-01-07,Available
+MedPlus,Andheri,Amoxicillin,Antibiotic,26,43,10,Medium,2,Summer,No,2025-04-03,Low Stock
+Guardian,Thane,Paracetamol,Painkiller,23,29,7,Low,6,Summer,No,2025-04-17,Low Stock
+MedPlus,Thane,Cetrizine,Allergy,9,26,14,Medium,5,Winter,No,2025-12-25,Low Stock
+MedPlus,Bandra,Metformin,Diabetes,17,45,12,Medium,3,Summer,No,2025-04-15,Low Stock
+Apollo,Bandra,Azithromycin,Antibiotic,73,46,18,High,4,Winter,Yes,2025-11-19,Available
+Wellness,Dadar,Vitamin D,Supplement,48,43,19,High,5,Rainy,Yes,2025-08-13,Available
+Apollo,Dadar,Insulin,Diabetes,57,33,13,Medium,4,Summer,No,2025-04-19,Available
+Apollo,Bandra,Crocin,Painkiller,38,27,10,Medium,6,Summer,No,2025-09-09,Available
+MedPlus,Dadar,Dolo,Painkiller,4,34,9,Medium,4,Summer,No,2025-03-27,Low Stock
+Guardian,Dadar,Paracetamol,Painkiller,71,22,17,High,6,Rainy,Yes,2025-08-19,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,1,39,5,Low,6,Summer,No,2025-05-30,Low Stock
+MedPlus,Bandra,Cetrizine,Allergy,43,25,12,Medium,6,Winter,No,2025-11-17,Available
+MedPlus,Thane,Vitamin D,Supplement,24,47,14,Medium,5,Winter,No,2025-11-10,Low Stock
+MedPlus,Andheri,Crocin,Painkiller,72,40,7,Low,6,Summer,No,2025-02-12,Available
+Guardian,Dadar,ORS,Hydration,14,22,11,Medium,4,Summer,No,2025-10-23,Low Stock
+MedPlus,Dadar,Azithromycin,Antibiotic,33,24,12,Medium,2,Summer,No,2025-09-26,Available
+MedPlus,Thane,Dolo,Painkiller,18,47,5,Low,4,Summer,No,2025-05-22,Low Stock
+Wellness,Bandra,Paracetamol,Painkiller,22,35,13,Medium,3,Rainy,No,2025-08-30,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,44,43,7,Low,5,Winter,No,2025-01-28,Available
+MedPlus,Andheri,ORS,Hydration,22,30,6,Low,6,Summer,No,2025-10-15,Low Stock
+Guardian,Dadar,Azithromycin,Antibiotic,26,40,17,High,4,Winter,Yes,2025-12-02,Low Stock
+Wellness,Dadar,Amoxicillin,Antibiotic,65,30,10,Medium,5,Winter,No,2025-11-13,Available
+Apollo,Dadar,Cetrizine,Allergy,64,49,5,Low,6,Summer,No,2025-09-09,Available
+Wellness,Bandra,Cetrizine,Allergy,8,29,15,Medium,3,Winter,No,2025-11-20,Low Stock
+Guardian,Bandra,Metformin,Diabetes,45,38,20,High,3,Rainy,Yes,2025-08-11,Available
+Wellness,Andheri,Paracetamol,Painkiller,67,24,16,High,6,Winter,Yes,2025-12-17,Available
+Wellness,Andheri,Amoxicillin,Antibiotic,2,25,10,Medium,4,Summer,No,2025-02-22,Low Stock
+Wellness,Dadar,Cetrizine,Allergy,23,39,13,Medium,5,Rainy,Yes,2025-07-01,Low Stock
+Apollo,Dadar,Paracetamol,Painkiller,54,33,6,Low,4,Winter,No,2025-01-30,Available
+Apollo,Bandra,Amoxicillin,Antibiotic,22,22,16,High,5,Winter,Yes,2025-11-10,Available
+Guardian,Bandra,Paracetamol,Painkiller,21,47,13,Medium,4,Rainy,Yes,2025-07-18,Low Stock
+Guardian,Thane,Dolo,Painkiller,46,45,11,Medium,5,Rainy,No,2025-08-31,Available
+MedPlus,Andheri,Paracetamol,Painkiller,69,24,22,High,2,Winter,Yes,2025-12-18,Available
+Guardian,Dadar,Vitamin D,Supplement,39,43,6,Low,2,Winter,No,2025-01-19,Low Stock
+Apollo,Bandra,Crocin,Painkiller,21,37,13,Medium,3,Rainy,No,2025-07-25,Low Stock
+Guardian,Bandra,Azithromycin,Antibiotic,65,39,6,Low,6,Summer,No,2025-09-24,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,58,36,6,Low,2,Summer,No,2025-10-18,Available
+Wellness,Bandra,Cetrizine,Allergy,74,42,14,Medium,3,Winter,Yes,2025-11-01,Available
+Guardian,Thane,ORS,Hydration,45,39,8,Low,5,Winter,No,2025-12-27,Available
+Apollo,Andheri,Dolo,Painkiller,61,37,15,Medium,2,Summer,No,2025-10-01,Available
+Guardian,Andheri,Insulin,Diabetes,34,27,11,Medium,4,Summer,No,2025-05-05,Available
+Apollo,Bandra,Vitamin D,Supplement,79,25,18,High,6,Rainy,Yes,2025-08-18,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,75,23,8,Low,3,Winter,No,2025-12-25,Available
+Guardian,Andheri,Crocin,Painkiller,55,48,14,Medium,5,Rainy,Yes,2025-06-14,Available
+Apollo,Dadar,Azithromycin,Antibiotic,30,45,15,Medium,3,Rainy,Yes,2025-08-24,Low Stock
+Apollo,Thane,Azithromycin,Antibiotic,64,28,14,Medium,5,Rainy,Yes,2025-08-16,Available
+Wellness,Dadar,Vitamin D,Supplement,62,29,7,Low,4,Winter,No,2025-01-17,Available
+Apollo,Andheri,Amoxicillin,Antibiotic,47,35,11,Medium,2,Summer,No,2025-04-15,Available
+Apollo,Thane,Azithromycin,Antibiotic,14,20,7,Low,3,Summer,No,2025-04-06,Low Stock
+MedPlus,Andheri,Amoxicillin,Antibiotic,80,24,21,High,4,Rainy,Yes,2025-06-23,Available
+Wellness,Andheri,ORS,Hydration,7,50,9,Medium,5,Summer,No,2025-03-30,Low Stock
+Guardian,Bandra,Insulin,Diabetes,75,27,13,Medium,5,Summer,No,2025-09-23,Available
+Wellness,Dadar,Azithromycin,Antibiotic,14,38,12,Medium,2,Summer,No,2025-09-10,Low Stock
+Guardian,Thane,Paracetamol,Painkiller,80,44,14,Medium,4,Summer,No,2025-10-15,Available
+Wellness,Andheri,Insulin,Diabetes,45,33,13,Medium,4,Winter,No,2025-11-30,Available
+MedPlus,Andheri,Metformin,Diabetes,52,32,7,Low,4,Summer,No,2025-04-07,Available
+MedPlus,Dadar,Azithromycin,Antibiotic,3,43,15,Medium,5,Rainy,Yes,2025-06-12,Low Stock
+Apollo,Andheri,Insulin,Diabetes,0,47,6,Low,4,Winter,No,2025-12-16,Out of Stock
+MedPlus,Dadar,Metformin,Diabetes,50,23,11,Medium,4,Summer,No,2025-03-14,Available
+Guardian,Bandra,Crocin,Painkiller,18,25,13,Medium,4,Winter,No,2025-12-05,Low Stock
+Guardian,Dadar,Metformin,Diabetes,11,26,15,Medium,5,Summer,No,2025-03-19,Low Stock
+Wellness,Bandra,Dolo,Painkiller,59,23,15,Medium,6,Winter,No,2025-12-16,Available
+MedPlus,Dadar,Paracetamol,Painkiller,27,29,5,Low,4,Rainy,No,2025-08-10,Low Stock
+Wellness,Thane,Crocin,Painkiller,31,50,15,Medium,4,Rainy,No,2025-07-15,Low Stock
+Wellness,Dadar,Vitamin D,Supplement,53,41,9,Medium,3,Winter,No,2025-11-29,Available
+MedPlus,Thane,Amoxicillin,Antibiotic,48,40,10,Medium,4,Summer,No,2025-05-31,Available
+Guardian,Dadar,Dolo,Painkiller,25,40,15,Medium,6,Rainy,Yes,2025-07-11,Low Stock
+Guardian,Andheri,Paracetamol,Painkiller,19,34,6,Low,6,Rainy,No,2025-07-26,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,65,45,15,Medium,2,Summer,No,2025-02-02,Available
+Apollo,Andheri,Paracetamol,Painkiller,40,35,11,Medium,2,Winter,No,2025-01-15,Available
+Guardian,Andheri,Azithromycin,Antibiotic,9,40,9,Medium,2,Summer,No,2025-02-28,Low Stock
+Wellness,Andheri,Azithromycin,Antibiotic,68,38,14,Medium,5,Winter,Yes,2025-12-07,Available
+Wellness,Andheri,ORS,Hydration,23,40,6,Low,6,Summer,No,2025-02-23,Low Stock
+Wellness,Andheri,Crocin,Painkiller,15,40,13,Medium,2,Summer,No,2025-05-12,Low Stock
+Apollo,Thane,Dolo,Painkiller,38,21,13,Medium,6,Winter,Yes,2025-01-28,Available
+MedPlus,Bandra,Cetrizine,Allergy,14,44,13,Medium,3,Summer,No,2025-03-20,Low Stock
+Guardian,Bandra,Insulin,Diabetes,70,46,10,Medium,3,Summer,No,2025-09-27,Available
+Wellness,Dadar,Dolo,Painkiller,62,43,9,Medium,5,Summer,No,2025-04-22,Available
+Apollo,Thane,Cetrizine,Allergy,50,32,7,Low,6,Summer,No,2025-03-27,Available
+Wellness,Bandra,Crocin,Painkiller,26,44,19,High,2,Rainy,Yes,2025-08-17,Low Stock
+Apollo,Thane,Crocin,Painkiller,14,40,12,Medium,3,Rainy,No,2025-06-27,Low Stock
+Guardian,Dadar,Amoxicillin,Antibiotic,52,48,10,Medium,2,Summer,No,2025-03-11,Available
+Wellness,Bandra,Cetrizine,Allergy,62,42,7,Low,2,Summer,No,2025-09-19,Available
+MedPlus,Bandra,Paracetamol,Painkiller,11,35,19,High,3,Rainy,Yes,2025-06-22,Low Stock
+Guardian,Dadar,Paracetamol,Painkiller,1,47,5,Low,5,Summer,No,2025-09-06,Low Stock
+MedPlus,Andheri,ORS,Hydration,7,42,14,Medium,5,Summer,No,2025-03-25,Low Stock
+Apollo,Bandra,Vitamin D,Supplement,11,47,5,Low,5,Summer,No,2025-04-08,Low Stock
+MedPlus,Dadar,Crocin,Painkiller,33,38,10,Medium,4,Summer,No,2025-05-01,Low Stock
+Apollo,Andheri,ORS,Hydration,80,27,12,Medium,3,Summer,No,2025-04-03,Available
+Wellness,Dadar,Dolo,Painkiller,72,45,9,Medium,2,Winter,No,2025-12-08,Available
+MedPlus,Thane,Vitamin D,Supplement,56,40,23,High,4,Rainy,Yes,2025-07-08,Available
+Guardian,Dadar,Metformin,Diabetes,0,42,5,Low,5,Winter,No,2025-12-21,Out of Stock
+Guardian,Dadar,Insulin,Diabetes,41,29,13,Medium,3,Winter,No,2025-11-16,Available
+Wellness,Thane,Amoxicillin,Antibiotic,60,35,14,Medium,4,Summer,No,2025-04-01,Available
+Wellness,Dadar,ORS,Hydration,10,21,7,Low,5,Winter,No,2025-12-09,Low Stock
+Wellness,Thane,Metformin,Diabetes,31,26,6,Low,2,Summer,No,2025-10-23,Available
+Wellness,Dadar,Crocin,Painkiller,20,38,11,Medium,4,Winter,No,2025-12-08,Low Stock
+Guardian,Andheri,Azithromycin,Antibiotic,78,42,8,Low,3,Rainy,No,2025-08-17,Available
+Guardian,Bandra,Crocin,Painkiller,48,32,14,Medium,5,Summer,No,2025-02-16,Available
+Guardian,Dadar,Crocin,Painkiller,22,38,12,Medium,3,Winter,No,2025-01-25,Low Stock
+MedPlus,Thane,Insulin,Diabetes,62,30,13,Medium,2,Winter,No,2025-01-22,Available
+MedPlus,Thane,Metformin,Diabetes,51,44,14,Medium,5,Summer,No,2025-02-13,Available
+MedPlus,Andheri,Vitamin D,Supplement,11,26,14,Medium,3,Winter,Yes,2025-01-14,Low Stock
+Wellness,Andheri,Crocin,Painkiller,75,31,11,Medium,4,Summer,No,2025-10-11,Available
+MedPlus,Dadar,Vitamin D,Supplement,57,23,15,Medium,3,Rainy,No,2025-07-04,Available
+MedPlus,Dadar,Cetrizine,Allergy,20,46,5,Low,2,Summer,No,2025-02-03,Low Stock
+Guardian,Dadar,Azithromycin,Antibiotic,11,43,12,Medium,5,Winter,Yes,2025-01-24,Low Stock
+Apollo,Andheri,Insulin,Diabetes,61,31,20,High,6,Rainy,Yes,2025-08-11,Available
+Guardian,Thane,Azithromycin,Antibiotic,33,49,12,Medium,5,Summer,No,2025-10-11,Low Stock
+Apollo,Andheri,Cetrizine,Allergy,78,37,16,High,4,Rainy,Yes,2025-06-09,Available
+Wellness,Andheri,Vitamin D,Supplement,62,49,15,Medium,3,Summer,No,2025-04-04,Available
+Wellness,Andheri,Insulin,Diabetes,51,21,12,Medium,2,Summer,No,2025-09-05,Available
+Wellness,Bandra,Paracetamol,Painkiller,57,21,12,Medium,4,Summer,No,2025-04-15,Available
+Apollo,Thane,Metformin,Diabetes,59,40,8,Low,2,Winter,No,2025-01-20,Available
+MedPlus,Thane,Dolo,Painkiller,8,20,8,Low,6,Summer,No,2025-03-22,Low Stock
+MedPlus,Andheri,Vitamin D,Supplement,29,28,10,Medium,6,Summer,No,2025-02-22,Available
+Guardian,Thane,ORS,Hydration,42,35,6,Low,2,Summer,No,2025-05-24,Available
+Apollo,Thane,Paracetamol,Painkiller,26,21,17,High,3,Winter,Yes,2025-01-12,Available
+Wellness,Bandra,Amoxicillin,Antibiotic,12,40,7,Low,6,Summer,No,2025-05-26,Low Stock
+Apollo,Bandra,Cetrizine,Allergy,44,40,23,High,3,Rainy,Yes,2025-07-27,Available
+Apollo,Bandra,Paracetamol,Painkiller,80,20,12,Medium,6,Summer,No,2025-04-14,Available
+Guardian,Dadar,ORS,Hydration,9,27,19,High,4,Winter,Yes,2025-12-01,Low Stock
+MedPlus,Thane,Amoxicillin,Antibiotic,48,43,7,Low,4,Summer,No,2025-03-15,Available
+Wellness,Dadar,Vitamin D,Supplement,34,31,8,Low,3,Summer,No,2025-05-13,Available
+Wellness,Bandra,Insulin,Diabetes,29,30,12,Medium,5,Summer,No,2025-04-03,Low Stock
+MedPlus,Dadar,Paracetamol,Painkiller,11,35,13,Medium,6,Winter,Yes,2025-01-23,Low Stock
+MedPlus,Bandra,Dolo,Painkiller,50,45,14,Medium,4,Winter,No,2025-01-01,Available
+Guardian,Dadar,Vitamin D,Supplement,66,34,8,Low,3,Winter,No,2025-11-18,Available
+MedPlus,Bandra,ORS,Hydration,74,50,7,Low,5,Summer,No,2025-09-18,Available
+MedPlus,Andheri,Amoxicillin,Antibiotic,25,27,9,Medium,3,Winter,No,2025-12-05,Low Stock
+MedPlus,Dadar,Vitamin D,Supplement,13,20,7,Low,4,Winter,No,2025-01-18,Low Stock
+Guardian,Dadar,Insulin,Diabetes,73,29,8,Low,4,Winter,No,2025-01-25,Available
+Apollo,Thane,Paracetamol,Painkiller,43,46,12,Medium,3,Winter,No,2025-01-20,Low Stock
+Apollo,Bandra,Metformin,Diabetes,55,49,15,Medium,3,Winter,No,2025-12-21,Available
+Wellness,Andheri,Crocin,Painkiller,41,23,22,High,2,Rainy,Yes,2025-08-31,Available
+Wellness,Bandra,Crocin,Painkiller,7,45,10,Medium,4,Summer,No,2025-03-26,Low Stock
+Apollo,Andheri,Paracetamol,Painkiller,62,43,15,Medium,2,Rainy,Yes,2025-07-04,Available
+MedPlus,Andheri,ORS,Hydration,75,35,16,High,3,Winter,Yes,2025-11-01,Available
+Apollo,Dadar,Crocin,Painkiller,37,41,6,Low,5,Summer,No,2025-02-28,Low Stock
+MedPlus,Bandra,Insulin,Diabetes,30,20,17,High,2,Rainy,Yes,2025-08-31,Available
+MedPlus,Thane,Cetrizine,Allergy,70,32,23,High,4,Rainy,Yes,2025-08-07,Available
+MedPlus,Thane,Paracetamol,Painkiller,20,47,15,Medium,6,Winter,No,2025-12-28,Low Stock
+Guardian,Andheri,Azithromycin,Antibiotic,34,45,16,High,4,Rainy,Yes,2025-06-13,Low Stock
+Apollo,Andheri,Cetrizine,Allergy,25,23,11,Medium,6,Rainy,No,2025-06-15,Available
+MedPlus,Andheri,Amoxicillin,Antibiotic,24,41,6,Low,3,Summer,No,2025-03-08,Low Stock
+Apollo,Thane,Metformin,Diabetes,71,35,11,Medium,4,Winter,No,2025-12-14,Available
+Wellness,Dadar,Amoxicillin,Antibiotic,31,29,10,Medium,6,Summer,No,2025-04-10,Available
+Apollo,Thane,Paracetamol,Painkiller,40,43,6,Low,6,Summer,No,2025-02-04,Low Stock
+Wellness,Thane,ORS,Hydration,29,20,15,Medium,5,Rainy,Yes,2025-08-17,Available
+Wellness,Andheri,ORS,Hydration,16,42,24,High,2,Rainy,Yes,2025-08-18,Low Stock
+MedPlus,Dadar,Dolo,Painkiller,80,42,5,Low,6,Winter,No,2025-12-30,Available
+Guardian,Thane,ORS,Hydration,0,26,12,Medium,6,Rainy,Yes,2025-07-29,Out of Stock
+Wellness,Dadar,Dolo,Painkiller,65,24,12,Medium,5,Rainy,No,2025-07-04,Available
+Apollo,Bandra,Azithromycin,Antibiotic,25,42,13,Medium,6,Winter,No,2025-01-30,Low Stock
+Guardian,Andheri,Paracetamol,Painkiller,74,40,8,Low,4,Summer,No,2025-04-22,Available
+MedPlus,Thane,Amoxicillin,Antibiotic,11,39,8,Low,4,Summer,No,2025-05-22,Low Stock
+Wellness,Andheri,Amoxicillin,Antibiotic,14,35,16,High,2,Rainy,Yes,2025-06-25,Low Stock
+Wellness,Andheri,Azithromycin,Antibiotic,26,27,5,Low,3,Summer,No,2025-05-23,Low Stock
+Wellness,Andheri,Dolo,Painkiller,45,35,20,High,6,Rainy,Yes,2025-06-23,Available
+Wellness,Bandra,Metformin,Diabetes,48,37,16,High,5,Rainy,Yes,2025-07-03,Available
+Guardian,Thane,Cetrizine,Allergy,14,44,9,Medium,2,Winter,No,2025-01-03,Low Stock
+Wellness,Dadar,Vitamin D,Supplement,40,23,6,Low,5,Summer,No,2025-02-05,Available
+MedPlus,Thane,Insulin,Diabetes,67,28,14,Medium,2,Summer,No,2025-10-08,Available
+MedPlus,Thane,Crocin,Painkiller,39,49,5,Low,5,Summer,No,2025-04-14,Low Stock
+Apollo,Dadar,Dolo,Painkiller,0,30,13,Medium,2,Summer,No,2025-02-10,Out of Stock
+Apollo,Dadar,Azithromycin,Antibiotic,9,27,11,Medium,2,Summer,No,2025-04-19,Low Stock
+MedPlus,Dadar,ORS,Hydration,12,45,15,Medium,3,Rainy,Yes,2025-07-26,Low Stock
+Guardian,Andheri,Metformin,Diabetes,30,41,9,Medium,2,Winter,No,2025-11-05,Low Stock
+Apollo,Thane,ORS,Hydration,4,47,8,Low,3,Summer,No,2025-09-22,Low Stock
+MedPlus,Andheri,ORS,Hydration,77,35,13,Medium,2,Winter,Yes,2025-12-12,Available
+Wellness,Bandra,Dolo,Painkiller,65,40,10,Medium,4,Summer,No,2025-09-02,Available
+Guardian,Bandra,Paracetamol,Painkiller,80,31,8,Low,2,Summer,No,2025-04-20,Available
+Wellness,Thane,Dolo,Painkiller,67,38,17,High,3,Winter,Yes,2025-01-24,Available
+Apollo,Dadar,Insulin,Diabetes,13,23,11,Medium,5,Summer,No,2025-05-18,Low Stock
+MedPlus,Andheri,Paracetamol,Painkiller,10,44,8,Low,5,Winter,No,2025-11-16,Low Stock
+MedPlus,Bandra,Cetrizine,Allergy,54,43,5,Low,3,Summer,No,2025-03-31,Available
+Guardian,Andheri,Azithromycin,Antibiotic,53,42,12,Medium,3,Rainy,No,2025-07-04,Available
+Guardian,Bandra,Azithromycin,Antibiotic,44,32,14,Medium,3,Summer,No,2025-04-09,Available
+Guardian,Thane,Amoxicillin,Antibiotic,28,27,8,Low,6,Summer,No,2025-03-22,Available
+Guardian,Bandra,Insulin,Diabetes,30,21,20,High,4,Rainy,Yes,2025-07-20,Available
+Guardian,Andheri,Azithromycin,Antibiotic,13,50,15,Medium,2,Summer,No,2025-05-31,Low Stock
+Wellness,Andheri,Vitamin D,Supplement,67,38,8,Low,2,Summer,No,2025-05-13,Available
+MedPlus,Thane,Metformin,Diabetes,80,22,11,Medium,4,Summer,No,2025-03-26,Available
+Apollo,Dadar,Amoxicillin,Antibiotic,52,46,9,Medium,2,Rainy,No,2025-07-31,Available
+MedPlus,Dadar,Metformin,Diabetes,38,21,18,High,6,Rainy,Yes,2025-08-06,Available
+MedPlus,Bandra,Paracetamol,Painkiller,50,22,6,Low,2,Summer,No,2025-02-22,Available
+MedPlus,Andheri,Vitamin D,Supplement,38,34,10,Medium,4,Summer,No,2025-05-14,Available
+Apollo,Thane,Amoxicillin,Antibiotic,52,39,17,High,3,Winter,Yes,2025-12-28,Available
+Wellness,Dadar,Vitamin D,Supplement,15,36,8,Low,4,Summer,No,2025-03-03,Low Stock
+Apollo,Bandra,Vitamin D,Supplement,50,26,12,Medium,6,Summer,No,2025-10-12,Available
+Guardian,Bandra,Metformin,Diabetes,49,49,17,High,3,Rainy,Yes,2025-06-22,Available
+Guardian,Dadar,Metformin,Diabetes,22,45,12,Medium,6,Winter,No,2025-11-26,Low Stock
+Guardian,Thane,Azithromycin,Antibiotic,34,37,14,Medium,5,Summer,No,2025-10-03,Low Stock
+Apollo,Dadar,Dolo,Painkiller,34,49,6,Low,3,Rainy,No,2025-07-14,Low Stock
+Apollo,Andheri,Paracetamol,Painkiller,29,42,11,Medium,4,Winter,No,2025-01-16,Low Stock
+Apollo,Thane,Vitamin D,Supplement,15,36,10,Medium,5,Summer,No,2025-05-15,Low Stock
+Guardian,Andheri,Dolo,Painkiller,2,48,8,Low,2,Summer,No,2025-05-09,Low Stock
+Guardian,Dadar,Paracetamol,Painkiller,75,34,12,Medium,3,Winter,No,2025-11-26,Available
+MedPlus,Dadar,ORS,Hydration,13,41,5,Low,6,Summer,No,2025-03-17,Low Stock
+Guardian,Bandra,Cetrizine,Allergy,51,21,22,High,2,Rainy,Yes,2025-07-26,Available
+Guardian,Bandra,Insulin,Diabetes,37,33,9,Medium,6,Winter,No,2025-12-07,Available
+Wellness,Andheri,Crocin,Painkiller,74,38,15,Medium,5,Summer,No,2025-02-21,Available
+Wellness,Bandra,Paracetamol,Painkiller,24,32,14,Medium,5,Winter,Yes,2025-01-03,Low Stock
+Apollo,Thane,Paracetamol,Painkiller,54,47,12,Medium,6,Summer,No,2025-03-08,Available
+MedPlus,Andheri,Vitamin D,Supplement,44,35,13,Medium,5,Rainy,No,2025-07-20,Available
+Apollo,Dadar,Vitamin D,Supplement,49,33,11,Medium,2,Rainy,Yes,2025-06-30,Available
+Guardian,Andheri,Dolo,Painkiller,1,45,6,Low,2,Winter,No,2025-12-04,Low Stock
+Wellness,Dadar,Paracetamol,Painkiller,23,39,17,High,4,Winter,Yes,2025-11-27,Low Stock
+Apollo,Andheri,Crocin,Painkiller,35,47,16,High,4,Winter,Yes,2025-12-10,Low Stock
+MedPlus,Bandra,Insulin,Diabetes,65,29,15,Medium,5,Rainy,No,2025-07-19,Available
+Guardian,Dadar,Cetrizine,Allergy,31,20,6,Low,3,Rainy,No,2025-08-19,Available
+Apollo,Dadar,Crocin,Painkiller,60,41,6,Low,5,Summer,No,2025-04-02,Available
+Wellness,Thane,Vitamin D,Supplement,36,27,8,Low,3,Summer,No,2025-02-21,Available
+MedPlus,Dadar,Metformin,Diabetes,66,41,9,Medium,5,Winter,No,2025-11-11,Available
+Guardian,Andheri,Amoxicillin,Antibiotic,74,22,7,Low,2,Summer,No,2025-03-03,Available
+Apollo,Thane,Metformin,Diabetes,67,44,9,Medium,2,Summer,No,2025-10-16,Available
+Wellness,Thane,Paracetamol,Painkiller,33,24,9,Medium,4,Winter,No,2025-01-19,Available
+Guardian,Dadar,Dolo,Painkiller,9,46,10,Medium,4,Summer,No,2025-03-18,Low Stock
+Guardian,Thane,Crocin,Painkiller,60,21,9,Medium,5,Summer,No,2025-05-02,Available
+Apollo,Dadar,ORS,Hydration,48,28,10,Medium,4,Rainy,No,2025-07-07,Available
+Wellness,Thane,Dolo,Painkiller,49,42,14,Medium,5,Summer,No,2025-09-30,Available
+Apollo,Bandra,Vitamin D,Supplement,7,45,17,High,4,Rainy,Yes,2025-08-30,Low Stock
+MedPlus,Dadar,Paracetamol,Painkiller,75,30,14,Medium,3,Summer,No,2025-10-24,Available
+Wellness,Thane,Metformin,Diabetes,79,50,14,Medium,4,Winter,No,2025-11-06,Available
+MedPlus,Thane,Crocin,Painkiller,23,48,16,High,3,Rainy,Yes,2025-08-14,Low Stock
+Wellness,Thane,Vitamin D,Supplement,75,36,10,Medium,6,Summer,No,2025-03-06,Available
+Guardian,Andheri,Amoxicillin,Antibiotic,19,44,13,Medium,6,Summer,No,2025-05-05,Low Stock
+MedPlus,Andheri,Vitamin D,Supplement,5,24,13,Medium,6,Summer,No,2025-10-11,Low Stock
+Guardian,Dadar,Azithromycin,Antibiotic,9,43,11,Medium,3,Winter,No,2025-12-14,Low Stock
+Apollo,Bandra,Cetrizine,Allergy,2,20,8,Low,6,Summer,No,2025-10-18,Low Stock
+Guardian,Andheri,Vitamin D,Supplement,15,34,19,High,5,Winter,Yes,2025-01-15,Low Stock
+Guardian,Dadar,Dolo,Painkiller,34,46,9,Medium,6,Winter,No,2025-12-17,Low Stock
+MedPlus,Thane,Vitamin D,Supplement,80,46,15,Medium,6,Rainy,Yes,2025-06-02,Available
+Apollo,Dadar,Metformin,Diabetes,6,30,20,High,4,Winter,Yes,2025-12-29,Low Stock
+Apollo,Dadar,Azithromycin,Antibiotic,26,48,8,Low,5,Summer,No,2025-04-13,Low Stock
+MedPlus,Dadar,Amoxicillin,Antibiotic,39,25,9,Medium,4,Summer,No,2025-09-16,Available
+Wellness,Dadar,Metformin,Diabetes,10,40,7,Low,6,Rainy,No,2025-08-31,Low Stock
+MedPlus,Bandra,Dolo,Painkiller,42,40,13,Medium,3,Summer,No,2025-03-25,Available
+Guardian,Thane,Amoxicillin,Antibiotic,43,31,10,Medium,5,Rainy,Yes,2025-08-22,Available
+Wellness,Andheri,Crocin,Painkiller,55,47,19,High,6,Rainy,Yes,2025-06-21,Available
+Wellness,Bandra,Metformin,Diabetes,24,41,12,Medium,4,Summer,No,2025-10-05,Low Stock
+Guardian,Bandra,Insulin,Diabetes,58,33,15,Medium,4,Rainy,No,2025-07-01,Available
+Guardian,Thane,Azithromycin,Antibiotic,39,30,6,Low,3,Summer,No,2025-09-29,Available
+Wellness,Andheri,Insulin,Diabetes,22,34,5,Low,3,Summer,No,2025-10-05,Low Stock
+Guardian,Bandra,Azithromycin,Antibiotic,44,21,24,High,4,Winter,Yes,2025-01-18,Available
+Guardian,Dadar,Azithromycin,Antibiotic,28,42,9,Medium,3,Winter,No,2025-12-18,Low Stock
+Wellness,Andheri,Dolo,Painkiller,4,47,5,Low,5,Rainy,No,2025-08-11,Low Stock
+Guardian,Andheri,Metformin,Diabetes,66,48,22,High,4,Winter,Yes,2026-01-01,Available
+MedPlus,Andheri,Cetrizine,Allergy,14,48,12,Medium,6,Summer,No,2025-03-06,Low Stock
+MedPlus,Dadar,Cetrizine,Allergy,71,48,9,Medium,2,Summer,No,2025-03-06,Available
+MedPlus,Bandra,Insulin,Diabetes,47,33,17,High,6,Winter,Yes,2025-11-30,Available
+Apollo,Bandra,Crocin,Painkiller,6,21,22,High,6,Winter,Yes,2025-12-01,Low Stock
+Guardian,Bandra,Crocin,Painkiller,23,43,8,Low,4,Summer,No,2025-04-05,Low Stock
+Apollo,Thane,Crocin,Painkiller,56,31,12,Medium,2,Winter,No,2025-12-17,Available
+MedPlus,Thane,Metformin,Diabetes,18,28,21,High,2,Winter,Yes,2025-12-13,Low Stock
+MedPlus,Andheri,Azithromycin,Antibiotic,1,43,7,Low,4,Summer,No,2025-09-06,Low Stock
+MedPlus,Thane,Paracetamol,Painkiller,55,33,14,Medium,5,Rainy,No,2025-07-10,Available
+Apollo,Dadar,ORS,Hydration,51,34,5,Low,3,Summer,No,2025-05-10,Available
+MedPlus,Thane,Amoxicillin,Antibiotic,77,38,14,Medium,6,Rainy,Yes,2025-08-11,Available
+MedPlus,Thane,Cetrizine,Allergy,5,28,7,Low,4,Summer,No,2025-10-24,Low Stock
+Wellness,Andheri,Dolo,Painkiller,78,42,5,Low,5,Summer,No,2025-10-29,Available
+Wellness,Dadar,Azithromycin,Antibiotic,29,47,5,Low,4,Summer,No,2025-10-03,Low Stock
+Apollo,Dadar,Amoxicillin,Antibiotic,73,49,12,Medium,5,Summer,No,2025-09-12,Available
+Wellness,Andheri,Azithromycin,Antibiotic,36,22,15,Medium,4,Rainy,Yes,2025-07-18,Available
+MedPlus,Dadar,ORS,Hydration,80,47,9,Medium,5,Summer,No,2025-03-04,Available
+Guardian,Thane,Crocin,Painkiller,59,25,8,Low,6,Winter,No,2025-11-18,Available
+Wellness,Bandra,ORS,Hydration,60,36,9,Medium,3,Summer,No,2025-02-08,Available
+Guardian,Thane,Vitamin D,Supplement,43,25,7,Low,2,Summer,No,2025-03-24,Available
+Guardian,Thane,Cetrizine,Allergy,20,40,13,Medium,3,Winter,No,2025-12-18,Low Stock
+Wellness,Bandra,Insulin,Diabetes,15,50,10,Medium,2,Winter,No,2025-01-09,Low Stock
+MedPlus,Dadar,Dolo,Painkiller,30,24,17,High,5,Winter,Yes,2025-11-15,Available
+Wellness,Bandra,Vitamin D,Supplement,21,43,6,Low,4,Summer,No,2025-10-08,Low Stock
