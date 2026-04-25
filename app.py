@@ -2,11 +2,21 @@ import streamlit as st
 import pandas as pd
 import datetime
 import random
+import base64
 
 # -------------------------
 # CONFIG
 # -------------------------
 st.set_page_config(layout="wide")
+
+# -------------------------
+# LOAD BACKGROUND IMAGE
+# -------------------------
+def get_base64(file):
+    with open(file, "rb") as f:
+        return base64.b64encode(f.read()).decode()
+
+img = get_base64("ChatGPT Image Apr 25, 2026, 02_19_54 PM.png")
 
 # -------------------------
 # LOAD DATA
@@ -57,7 +67,6 @@ with tab1:
 
     if st.button("Check Prediction", key="pred_btn"):
 
-        # INPUT VALIDATION
         if med1 == "Select Medicine" or area1 == "Select Area":
             st.error("❌ Please select medicine and area")
         else:
@@ -70,7 +79,7 @@ with tab1:
 
                 if result.empty:
                     st.error("❌ Not available in this area")
-                    st.info("👉 Go to Emergency tab to find fastest option")
+                    st.info("👉 Go to Emergency tab")
 
                 else:
                     row = result.iloc[0]
@@ -80,18 +89,14 @@ with tab1:
 
                     if status == "Available":
                         st.success("🟢 Available")
-                        st.info("📊 Prediction: No shortage expected soon")
 
                     elif status == "Low Stock":
                         st.warning("🟡 Limited stock")
-                        st.error("🚨 High chance it will run out soon")
-                        st.info("📊 Buy as early as possible")
+                        st.error("🚨 May run out soon")
 
                     else:
                         st.error("🔴 Out of stock")
-                        st.info("📊 Try nearby areas immediately")
 
-                    # SAFE CONTACT
                     contact = row['Contact'] if 'Contact' in df.columns else "Not Available"
 
                     st.subheader("🏥 Pharmacy Details")
@@ -100,21 +105,11 @@ with tab1:
                     st.write(f"🕒 Store: {store_status()}")
                     st.write(f"📞 Contact: {contact}")
 
-                    # SUMMARY
-                    st.subheader("🧾 overall")
-                    st.info(f"""
-Medicine: {med1}  
-Area: {area1}  
-Status: {status}  
-Pharmacy: {row['Pharmacy_Name']}
-""")
-
-    # RESET BUTTON
     if st.button("🔁 Check Another"):
         st.rerun()
 
 # =====================================================
-# 🚨 TAB 2: EMERGENCY
+# 🚨 TAB 2: EMERGENCY (CLICKABLE GOOGLE MAPS)
 # =====================================================
 with tab2:
 
@@ -136,7 +131,7 @@ with tab2:
         ].copy()
 
         if available.empty:
-            st.error("❌ Not available anywhere right now")
+            st.error("❌ Not available anywhere")
 
         else:
             def estimate_time(r):
@@ -148,18 +143,32 @@ with tab2:
             st.subheader("⚡ Fastest Pharmacies")
 
             for _, r in available.head(3).iterrows():
-                st.success(f"""
-🏥 {r['Pharmacy_Name']} ({r['Area']})
-⏱️ Reach in: {r['Time']} mins
-""")
 
-            best = available.iloc[0]
+                pharmacy = r['Pharmacy_Name']
+                area = r['Area']
 
-            st.subheader("🏆 Best Immediate Option")
-            st.success(f"""
-🏥 {best['Pharmacy_Name']} ({best['Area']})
-🚀 Reach in: {best['Time']} mins
-""")
+                # Google Maps direction link
+                origin = area2.replace(" ", "+")
+                destination = f"{pharmacy} {area}".replace(" ", "+")
+
+                maps_url = f"https://www.google.com/maps/dir/?api=1&origin={origin}&destination={destination}"
+
+                # Clickable card
+                st.markdown(f"""
+                <a href="{maps_url}" target="_blank" style="text-decoration:none;">
+                    <div style="
+                        background: rgba(0,0,0,0.6);
+                        padding:15px;
+                        border-radius:12px;
+                        margin-bottom:10px;
+                        cursor:pointer;
+                    ">
+                        <h4 style="color:white;">🏥 {pharmacy} ({area})</h4>
+                        <p style="color:white;">⏱️ Reach in: {r['Time']} mins</p>
+                        <p style="color:#00c9a7;">👉 Click to open in Google Maps</p>
+                    </div>
+                </a>
+                """, unsafe_allow_html=True)
 
 # =====================================================
 # 📸 TAB 3: PRESCRIPTION
@@ -168,24 +177,59 @@ with tab3:
 
     st.header("📸 Upload Prescription")
 
-    file = st.file_uploader("Upload Prescription Image", type=["png","jpg","jpeg"], key="upload")
+    file = st.file_uploader("Upload Image", type=["png","jpg","jpeg"])
 
     if file:
         st.image(file, width=300)
         st.success("Uploaded successfully")
 
         st.subheader("💊 Medicines Detected")
-
-        # Dummy detection
         detected = ["Paracetamol", "Crocin"]
 
         for med in detected:
             st.write(f"✔ {med}")
 
-        st.info("👉 Use Medicine Predictor tab to check availability")
+# -------------------------
+# FINAL UI (NO BLUR, SHARP IMAGE)
+# -------------------------
+st.markdown(f"""
+<style>
 
-# -------------------------
-# FOOTER
-# -------------------------
-st.markdown("---")
-st.write("🚀 Built for real patient decision support")
+/* Background */
+.stApp {{
+    background-image: url("data:image/png;base64,{img}");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}}
+
+/* Container */
+.block-container {{
+    background: rgba(0, 0, 0, 0.5);
+    padding: 2rem;
+    border-radius: 15px;
+}}
+
+/* Cards */
+div[data-testid="stVerticalBlock"] > div {{
+    background: rgba(0,0,0,0.5);
+    padding: 15px;
+    border-radius: 12px;
+}}
+
+/* Buttons */
+.stButton > button {{
+    background: #00c9a7;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}}
+
+/* Text */
+h1, h2, h3, p {{
+    color: white;
+}}
+
+</style>
+""", unsafe_allow_html=True)
